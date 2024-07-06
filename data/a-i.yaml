@@ -1,0 +1,35 @@
+- name: "Ollama"
+  url: "https://github.com/ollama/ollama"
+
+- name: "LocalAI"
+  url: "https://github.com/mudler/LocalAI"
+
+- name: "Xinference"
+  url: "https://github.com/xorbitsai/inference"
+
+- name: "OpenLLM"
+  url: "https://github.com/bentoml/OpenLLM"
+
+- name: "Anse"
+  url: "https://github.com/anse-app/anse"
+
+- name: "ChatGPT UI"
+  url: "https://github.com/WongSaang/chatgpt-ui"
+
+- name: "Chatpad AI"
+  url: "https://github.com/deiucanta/chatpad"
+
+- name: "Cheshire-Cat"
+  url: "https://github.com/cheshire-cat-ai/core"
+
+- name: "Flowise"
+  url: "https://github.com/FlowiseAI/Flowise"
+
+- name: "Lobe Chat"
+  url: "https://github.com/lobehub/lobe-chat"
+
+- name: "Open WebUI"
+  url: "https://github.com/open-webui/open-webui"
+
+- name: "Serge"
+  url: "https://github.com/serge-chat/serge"

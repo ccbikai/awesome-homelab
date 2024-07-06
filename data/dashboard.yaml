@@ -1,0 +1,17 @@
+- name: "dash. "
+  url: "https://github.com/MauriceNino/dashdot"
+
+- name: "Dashy"
+  url: "https://github.com/lissy93/dashy"
+
+- name: "Glance"
+  url: "https://github.com/glanceapp/glance"
+
+- name: "Heimdall"
+  url: "https://github.com/linuxserver/Heimdall"
+
+- name: "Homarr"
+  url: "https://github.com/ajnart/homarr"
+
+- name: "Homepage"
+  url: "https://github.com/gethomepage/homepage"

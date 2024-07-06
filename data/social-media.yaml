@@ -1,0 +1,26 @@
+- name: "Mastodon"
+  url: "https://github.com/mastodon/mastodon"
+
+- name: "Pleroma"
+  url: "https://git.pleroma.social/pleroma/pleroma"
+
+- name: "Diaspora"
+  url: "https://github.com/diaspora/diaspora"
+
+- name: "Friendica"
+  url: "https://github.com/friendica/friendica"
+
+- name: "PixelFed"
+  url: "https://github.com/pixelfed/pixelfed"
+
+- name: "GoToSocial"
+  url: "https://github.com/superseriousbusiness/gotosocial"
+
+- name: "Libreddit"
+  url: "https://github.com/libreddit/libreddit"
+
+- name: "Mixpost"
+  url: "https://github.com/inovector/mixpost"
+
+- name: "Nitter"
+  url: "https://github.com/zedeus/nitter"

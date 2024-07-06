@@ -1,0 +1,17 @@
+- name: "Portainer"
+  url: "https://github.com/portainer/portainer"
+
+- name: "Rancher"
+  url: "https://github.com/rancher/rancher"
+
+- name: "Nomad"
+  url: "https://github.com/hashicorp/nomad"
+
+- name: "Dockge"
+  url: "https://github.com/louislam/dockge"
+
+- name: "Dozzle"
+  url: "https://github.com/amir20/dozzle"
+
+- name: "Windows"
+  url: "https://github.com/dockur/windows"

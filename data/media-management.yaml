@@ -1,0 +1,56 @@
+- name: "Audiobookshelf"
+  url: "https://github.com/advplyr/audiobookshelf"
+
+- name: "Jellyfin"
+  url: "https://github.com/jellyfin/jellyfin"
+
+- name: "Komga"
+  url: "https://github.com/gotson/komga"
+
+- name: "Navidrome"
+  url: "https://github.com/navidrome/navidrome"
+
+- name: "Plex"
+  url: "https://github.com/plexinc/pms-docker"
+
+- name: "Bazarr"
+  url: "https://github.com/morpheus65535/bazarr"
+
+- name: "Booksonic Air"
+  url: "https://github.com/popeen/Booksonic-Air"
+
+- name: "Calibre"
+  url: "https://github.com/janeczku/calibre-web"
+
+- name: "Jackett"
+  url: "https://github.com/Jackett/Jackett"
+
+- name: "Kapowarr"
+  url: "https://github.com/Casvt/Kapowarr"
+
+- name: "Kavita"
+  url: "https://github.com/Kareadita/Kavita"
+
+- name: "Koillection"
+  url: "https://github.com/benjaminjonard/koillection"
+
+- name: "Lidarr"
+  url: "https://github.com/Lidarr/Lidarr"
+
+- name: "Maintainerr"
+  url: "https://github.com/jorenn92/Maintainerr"
+
+- name: "Overseerr"
+  url: "https://github.com/sct/overseerr"
+
+- name: "Radarr"
+  url: "https://github.com/Radarr/Radarr"
+
+- name: "Readarr"
+  url: "https://github.com/Readarr/Readarr"
+
+- name: "Sonarr"
+  url: "https://github.com/Sonarr/Sonarr"
+
+- name: "MoviePilot"
+  url: "https://github.com/jxxghp/MoviePilot"

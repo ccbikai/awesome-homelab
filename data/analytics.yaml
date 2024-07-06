@@ -1,0 +1,23 @@
+- name: "Matomo"
+  url: "https://github.com/matomo-org/matomo"
+
+- name: "Plausible"
+  url: "https://github.com/plausible/analytics"
+
+- name: "Ackee"
+  url: "https://github.com/electerious/Ackee"
+
+- name: "Umami"
+  url: "https://github.com/umami-software/umami"
+
+- name: "GoAccess"
+  url: "https://github.com/allinurl/goaccess"
+
+- name: "Pirsch"
+  url: "https://github.com/pirsch-analytics/pirsch"
+
+- name: "Fathom"
+  url: "https://github.com/usefathom/fathom"
+
+- name: "PostHog"
+  url: "https://github.com/PostHog/posthog"

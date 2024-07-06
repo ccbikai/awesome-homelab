@@ -1,0 +1,23 @@
+- name: "WordPress"
+  url: "https://github.com/WordPress/WordPress"
+
+- name: "Ghost"
+  url: "https://github.com/TryGhost/Ghost"
+
+- name: "Hexo"
+  url: "https://github.com/hexojs/hexo"
+
+- name: "Hugo"
+  url: "https://github.com/gohugoio/hugo"
+
+- name: "Jekyll"
+  url: "https://github.com/jekyll/jekyll"
+
+- name: "Haven"
+  url: "https://github.com/havenweb/haven"
+
+- name: "LinkStack"
+  url: "https://github.com/LinkStackOrg/linkstack-docker"
+
+- name: "Memos"
+  url: "https://github.com/usememos/memos"

@@ -1,0 +1,23 @@
+- name: "IT-Tools"
+  url: "https://github.com/CorentinTh/it-tools"
+
+- name: "Moodist"
+  url: "https://github.com/remvze/moodist"
+
+- name: "Penpot"
+  url: "https://github.com/penpot/penpot"
+
+- name: "Ryot"
+  url: "https://github.com/IgnisDa/ryot"
+
+- name: "Shlink"
+  url: "https://github.com/shlinkio/shlink"
+
+- name: "Stirling-PDF"
+  url: "https://github.com/Stirling-Tools/Stirling-PDF"
+
+- name: "Tandoor Recipes"
+  url: "https://github.com/TandoorRecipes/recipes"
+
+- name: "TeslaMate"
+  url: "https://github.com/teslamate-org/teslamate"

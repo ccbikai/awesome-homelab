@@ -1,0 +1,35 @@
+- name: "AFFiNE"
+  url: "https://github.com/toeverything/affine"
+
+- name: "ArchiveBox"
+  url: "https://github.com/ArchiveBox/ArchiveBox"
+
+- name: "BookStack"
+  url: "https://github.com/BookStackApp/BookStack"
+
+- name: "flatnotes"
+  url: "https://github.com/Dullage/flatnotes"
+
+- name: "Joplin"
+  url: "https://github.com/laurent22/joplin"
+
+- name: "Linkwarden"
+  url: "https://github.com/linkwarden/linkwarden"
+
+- name: "NocoDB"
+  url: "https://github.com/nocodb/nocodb"
+
+- name: "Note Mark"
+  url: "https://github.com/enchant97/note-mark/"
+
+- name: "Outline"
+  url: "https://github.com/outline/outline"
+
+- name: "Paperless-ngx"
+  url: "https://github.com/paperless-ngx/paperless-ngx"
+
+- name: "Tasks.md"
+  url: "https://github.com/BaldissaraMatheus/Tasks.md"
+
+- name: "Trilium Notes"
+  url: "https://github.com/zadam/trilium"

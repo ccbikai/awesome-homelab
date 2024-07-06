@@ -1,0 +1,14 @@
+- name: "Duplicati"
+  url: "https://github.com/duplicati/duplicati"
+
+- name: "Restic"
+  url: "https://github.com/restic/restic"
+
+- name: "BorgBackup"
+  url: "https://github.com/borgbackup/borg"
+
+- name: "Kopia"
+  url: "https://github.com/kopia/kopia"
+
+- name: "Rclone"
+  url: "https://github.com/rclone/rclone"

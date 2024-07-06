@@ -1,0 +1,21 @@
+{
+  "name": "awesome-homelab",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Awesome Homelab",
+  "main": "script/index.js",
+  "scripts": {
+    "dev": "node --env-file .env script/index.js",
+    "build": "node script/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@9.4.0+sha256.b6fd0bfda555e7e584ad7e56b30c68b01d5a04f9ee93989f4b93ca8473c49c74",
+  "dependencies": {
+    "hosted-git-info": "^7.0.2",
+    "markdown-table": "^3.0.3",
+    "yaml": "^2.4.5"
+  }
+}

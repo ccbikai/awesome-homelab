@@ -1,0 +1,8 @@
+- name: "LibrePhotos"
+  url: "https://github.com/LibrePhotos/librephotos"
+
+- name: "immich"
+  url: "https://github.com/immich-app/immich"
+
+- name: "PhotoPrism"
+  url: "https://github.com/photoprism/photoprism"

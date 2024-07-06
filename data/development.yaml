@@ -1,0 +1,38 @@
+- name: "Gitea"
+  url: "https://github.com/go-gitea/gitea"
+
+- name: "GitLab"
+  url: "https://gitlab.com/gitlab-org/gitlab"
+
+- name: "Jenkins"
+  url: "https://github.com/jenkinsci/jenkins"
+
+- name: "SonarQube"
+  url: "https://github.com/SonarSource/sonarqube"
+
+- name: "Redmine"
+  url: "https://github.com/redmine/redmine"
+
+- name: "Taiga"
+  url: "https://github.com/taigaio/taiga-back"
+
+- name: "Atuin"
+  url: "https://github.com/atuinsh/atuin"
+
+- name: "Budibase"
+  url: "https://github.com/Budibase/budibase"
+
+- name: "code-server"
+  url: "https://github.com/coder/code-server"
+
+- name: "Get A Shell"
+  url: "https://github.com/steveiliop56/getashell"
+
+- name: "Gitea"
+  url: "https://github.com/go-gitea/gitea"
+
+- name: "MinIO"
+  url: "https://github.com/minio/minio"
+
+- name: "Sshwifty"
+  url: "https://github.com/nirui/sshwifty"

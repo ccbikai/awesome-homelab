@@ -1,0 +1,5 @@
+- name: "Baikal"
+  url: "https://github.com/ckulka/baikal-docker"
+
+- name: "Syncthing"
+  url: "https://github.com/syncthing/syncthing"

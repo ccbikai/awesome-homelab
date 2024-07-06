@@ -1,0 +1,5 @@
+- name: "lncm/bitcoind"
+  url: "https://github.com/lncm/docker-bitcoind"
+
+- name: "OctoBot"
+  url: "https://github.com/Drakkar-Software/OctoBot"

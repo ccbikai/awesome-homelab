@@ -1,0 +1,5 @@
+- name: "authentik"
+  url: "https://github.com/goauthentik/authentik"
+
+- name: "Logto"
+  url: "https://github.com/logto-io/logto"

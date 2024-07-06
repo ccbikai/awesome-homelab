@@ -1,0 +1,9 @@
+- name: "FreshRSS"
+  url: "https://github.com/FreshRSS/FreshRSS"
+
+- name: "RSS"
+  url: "https://github.com/ssddanbrown/rss"
+
+- name: "RSSHub"
+  url: "https://github.com/DIYgod/RSSHub"
+

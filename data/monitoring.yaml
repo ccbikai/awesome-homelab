@@ -1,0 +1,23 @@
+- name: "Grafana"
+  url: "https://github.com/grafana/grafana"
+
+- name: "Prometheus"
+  url: "https://github.com/prometheus/prometheus"
+
+- name: "Zabbix"
+  url: "https://github.com/zabbix/zabbix"
+
+- name: "Nagios"
+  url: "https://github.com/NagiosEnterprises/nagioscore"
+
+- name: "Netdata"
+  url: "https://github.com/netdata/netdata"
+
+- name: "Uptime Kuma"
+  url: "https://github.com/louislam/uptime-kuma"
+
+- name: "Change Detection"
+  url: "https://github.com/dgtlmoon/changedetection.io"
+
+- name: "Glances"
+  url: "https://github.com/nicolargo/glances"

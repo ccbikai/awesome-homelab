@@ -1,0 +1,29 @@
+- name: "Nextcloud"
+  url: "https://github.com/nextcloud/server"
+
+- name: "Seafile"
+  url: "https://github.com/haiwen/seafile"
+
+- name: "ProjectSend"
+  url: "https://github.com/projectsend/projectsend"
+
+- name: "Pydio Cells"
+  url: "https://github.com/pydio/cells"
+
+- name: "File Browser"
+  url: "https://github.com/filebrowser/filebrowser"
+
+- name: "Fireshare"
+  url: "https://github.com/ShaneIsrael/fireshare"
+
+- name: "ownCloud"
+  url: "https://github.com/owncloud/core"
+
+- name: "PairDrop"
+  url: "https://github.com/schlagmichdoch/PairDrop"
+
+- name: "send"
+  url: "https://gitlab.com/timvisee/send"
+
+- name: "zipline"
+  url: "https://github.com/diced/zipline"

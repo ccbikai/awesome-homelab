@@ -1,0 +1,23 @@
+- name: "Home Assistant"
+  url: "https://github.com/home-assistant/core"
+
+- name: "Gladys Assistant"
+  url: "https://github.com/gladysassistant/gladys"
+
+- name: "OpenHAB"
+  url: "https://github.com/openhab/openhab-core"
+
+- name: "Node-RED"
+  url: "https://github.com/node-red/node-red"
+
+- name: "Domoticz"
+  url: "https://github.com/domoticz/domoticz"
+
+- name: "Homebridge"
+  url: "https://github.com/homebridge/homebridge"
+
+- name: "Scrypted"
+  url: "https://github.com/koush/scrypted"
+
+- name: "n8n"
+  url: "https://github.com/n8n-io/n8n"

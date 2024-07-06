@@ -1,0 +1,6 @@
+- name: "draw.io"
+  url: "https://github.com/jgraph/drawio"
+
+- name: "Excalidraw"
+  url: "https://github.com/excalidraw/excalidraw"
+
