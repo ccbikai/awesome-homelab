@@ -21,3 +21,6 @@
 
 - name: "PostHog"
   url: "https://github.com/PostHog/posthog"
+
+- name: "Openpanel"
+  url: "https://github.com/Openpanel-dev/openpanel"
