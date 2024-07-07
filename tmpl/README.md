@@ -4,7 +4,7 @@
 
 # Awesome Homelab
 
-**Curating Top Apps for Homelab Enthusiasts.**
+**Curating Top Open Source Apps for Homelab Enthusiasts.**
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -14,4 +14,4 @@
 
 ## Apps
 
-<!-- Project -->
+<!-- Apps -->

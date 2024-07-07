@@ -2,12 +2,13 @@
   url: https://github.com/virt-manager/virt-manager
 - name: kube-virt
   url: https://github.com/kubevirt/kubevirt
-- name: openstack
-  url: https://www.openstack.org
-- name: esxi
-  url: https://www.vmware.com/products/esxi-and-esx.html
-- name: unraid
-  url: https://unraid.net
-- name: proxmox
-  url: https://www.proxmox.com
-  
+- name: OpenWrt
+  url: https://github.com/openwrt/openwrt
+- name: openmediavault
+  url: https://github.com/openmediavault/openmediavault
+- name: TrueNAS
+  url: https://github.com/truenas/middleware
+- name: Runtipi
+  url: https://github.com/runtipi/runtipi
+- name: Cockpit
+  url: https://github.com/cockpit-project/cockpit
