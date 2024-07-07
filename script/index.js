@@ -55,4 +55,4 @@ const markdown = categoryList
 
 const readme = fs.readFileSync('./tmpl/README.md', 'utf8')
 
-fs.writeFileSync('./README.md', readme.replace('<!-- Project -->', markdown))
+fs.writeFileSync('./README.md', readme.replace('<!-- Apps -->', markdown))
