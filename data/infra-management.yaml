@@ -1,0 +1,13 @@
+- name: virt-manager
+  url: https://github.com/virt-manager/virt-manager
+- name: kube-virt
+  url: https://github.com/kubevirt/kubevirt
+- name: openstack
+  url: https://www.openstack.org
+- name: esxi
+  url: https://www.vmware.com/products/esxi-and-esx.html
+- name: unraid
+  url: https://unraid.net
+- name: proxmox
+  url: https://www.proxmox.com
+  
