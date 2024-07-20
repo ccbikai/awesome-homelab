@@ -1,3 +1,8 @@
 - name: "2FAuth"
   url: "https://github.com/Bubka/2FAuth"
-  
+
+- name: "Bitwarden"
+  url: "https://github.com/bitwarden/server"
+
+- name: "Passbolt"
+  url: "https://github.com/passbolt/passbolt_api"

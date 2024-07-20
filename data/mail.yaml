@@ -1,2 +1,5 @@
 - name: "Stalwart"
   url: "https://github.com/stalwartlabs/mail-server"
+
+- name: "mailcow"
+  url: "https://github.com/mailcow/mailcow-dockerized"

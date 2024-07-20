@@ -6,3 +6,6 @@
 
 - name: "PhotoPrism"
   url: "https://github.com/photoprism/photoprism"
+
+- name: "Ente"
+  url: "https://github.com/ente-io/ente"

@@ -33,3 +33,6 @@
 
 - name: "Trilium Notes"
   url: "https://github.com/zadam/trilium"
+
+- name: "Logseq"
+  url: "https://github.com/logseq/logseq"

@@ -7,3 +7,5 @@
 - name: "RSSHub"
   url: "https://github.com/DIYgod/RSSHub"
 
+- name: "Tiny Tiny RSS"
+  url: "https://gitlab.tt-rss.org/tt-rss/tt-rss"

@@ -4,6 +4,9 @@
 - name: "Jellyfin"
   url: "https://github.com/jellyfin/jellyfin"
 
+- name: "Emby"
+  url: "https://github.com/MediaBrowser/Emby"
+
 - name: "Komga"
   url: "https://github.com/gotson/komga"
 
