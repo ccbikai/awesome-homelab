@@ -24,3 +24,9 @@
 
 - name: "Beszel"
   url: "https://github.com/henrygd/beszel"
+
+- name: "Monocker"
+  url: "https://github.com/petersem/monocker"
+
+- name: "Doku"
+  url: "https://github.com/amerkurev/doku"

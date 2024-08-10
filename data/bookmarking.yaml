@@ -9,3 +9,6 @@
 
 - name: "LinkAce"
   url: "https://github.com/Kovah/LinkAce"
+
+- name: "Benotes"
+  url: "https://github.com/fr0tt/benotes"

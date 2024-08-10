@@ -36,3 +36,27 @@
 
 - name: "Blaze"
   url: "https://github.com/blenderskool/blaze"
+
+- name: "PrivateBin"
+  url: "https://github.com/PrivateBin/PrivateBin"
+
+- name: "Gokapi"
+  url: "https://github.com/Forceu/Gokapi"
+
+- name: "Fireshare"
+  url: "https://github.com/ShaneIsrael/fireshare"
+
+- name: "Zipline"
+  url: "https://github.com/diced/zipline"
+
+- name: "Dufs"
+  url: "https://github.com/sigoden/dufs"
+
+- name: "Uppy"
+  url: "https://github.com/transloadit/uppy"
+
+- name: "Snapdrop"
+  url: "https://github.com/RobinLinus/snapdrop"
+
+- name: "PicoShare"
+  url: "https://github.com/mtlynch/picoshare"

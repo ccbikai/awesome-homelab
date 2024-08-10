@@ -24,3 +24,6 @@
 
 - name: "Nitter"
   url: "https://github.com/zedeus/nitter"
+
+- name: "HumHub"
+  url: "https://github.com/humhub/humhub"

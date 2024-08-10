@@ -15,3 +15,6 @@
 
 - name: "Windows"
   url: "https://github.com/dockur/windows"
+
+- name: "Yacht"
+  url: "https://github.com/SelfhostedPro/Yacht"

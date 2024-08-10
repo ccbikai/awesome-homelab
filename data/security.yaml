@@ -9,3 +9,6 @@
 
 - name: "vaultwarden"
   url: "https://github.com/dani-garcia/vaultwarden"
+
+- name: "SWAG"
+  url: "https://github.com/linuxserver/docker-swag"

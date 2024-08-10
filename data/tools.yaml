@@ -46,11 +46,23 @@
 - name: "Sink"
   url: "https://github.com/ccbikai/sink"
 
-- name: "BroadcastChannel"
-  url: "https://github.com/ccbikai/BroadcastChannel"
-
 - name: "LittleLink-Server"
   url: "https://github.com/techno-tim/littlelink-server"
 
 - name: "Wishthis"
   url: "https://github.com/wishthis/wishthis"
+
+- name: "UpSnap"
+  url: "https://github.com/seriousm4x/UpSnap"
+
+- name: "SerpBear"
+  url: "https://github.com/towfiqi/serpbear"
+
+- name: "Vikunja"
+  url: "https://github.com/go-vikunja/vikunja"
+
+- name: "M4TT72 Terminal"
+  url: "https://github.com/m4tt72/terminal"
+
+- name: "Commento++"
+  url: "https://github.com/souramoo/commentoplusplus"

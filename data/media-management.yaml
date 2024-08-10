@@ -63,3 +63,9 @@
 
 - name: "Komga"
   url: "https://github.com/gotson/komga"
+
+- name: "Jellyseerr"
+  url: "https://github.com/Fallenbagel/jellyseerr"
+
+- name: "Midarr"
+  url: "https://github.com/midarrlabs/midarr-server"

@@ -52,5 +52,5 @@
 - name: "Documize"
   url: "https://github.com/documize/community"
 
-- name: "flatnotes"
-  url: "https://github.com/dullage/flatnotes"
+- name: "HedgeDoc"
+  url: "https://github.com/hedgedoc/hedgedoc"

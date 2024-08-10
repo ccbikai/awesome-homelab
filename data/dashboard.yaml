@@ -18,3 +18,12 @@
 
 - name: "homer"
   url: "https://github.com/bastienwirtz/homer"
+
+- name: "Flame"
+  url: "https://github.com/pawelmalak/flame"
+
+- name: "Web Portal"
+  url: "https://github.com/enchant97/web-portal"
+
+- name: "Jump"
+  url: "https://github.com/daledavies/jump"
