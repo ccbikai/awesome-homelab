@@ -21,3 +21,36 @@
 
 - name: "TeslaMate"
   url: "https://github.com/teslamate-org/teslamate"
+
+- name: "Snapp"
+  url: "https://github.com/urania-dev/snapp"
+
+- name: "jetlog"
+  url: "https://github.com/pbogre/jetlog"
+
+- name: "PdfDing"
+  url: "https://codeberg.org/mrmn/PdfDing"
+
+- name: "Zimit"
+  url: "https://github.com/openzim/zimit"
+
+- name: "Hoarder"
+  url: "https://github.com/hoarder-app/hoarder"
+
+- name: "MicroBin"
+  url: "https://github.com/szabodanika/microbin"
+
+- name: "Kutt"
+  url: "https://github.com/thedevs-network/kutt"
+
+- name: "Sink"
+  url: "https://github.com/ccbikai/sink"
+
+- name: "BroadcastChannel"
+  url: "https://github.com/ccbikai/BroadcastChannel"
+
+- name: "LittleLink-Server"
+  url: "https://github.com/techno-tim/littlelink-server"
+
+- name: "Wishthis"
+  url: "https://github.com/wishthis/wishthis"

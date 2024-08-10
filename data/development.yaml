@@ -36,3 +36,7 @@
 
 - name: "Sshwifty"
   url: "https://github.com/nirui/sshwifty"
+
+- name: "Planka"
+  url: "https://github.com/plankanban/planka"
+

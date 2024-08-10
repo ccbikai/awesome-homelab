@@ -36,3 +36,21 @@
 
 - name: "Logseq"
   url: "https://github.com/logseq/logseq"
+
+- name: "Docmost"
+  url: "https://github.com/docmost/docmost"
+
+- name: "Docspell"
+  url: "https://github.com/eikek/docspell"
+
+- name: "Papermerge"
+  url: "https://github.com/ciur/papermerge"
+
+- name: "Servas"
+  url: "https://github.com/beromir/Servas"
+
+- name: "Documize"
+  url: "https://github.com/documize/community"
+
+- name: "flatnotes"
+  url: "https://github.com/dullage/flatnotes"

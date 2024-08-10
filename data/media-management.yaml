@@ -57,3 +57,9 @@
 
 - name: "MoviePilot"
   url: "https://github.com/jxxghp/MoviePilot"
+
+- name: "ErsatzTV"
+  url: "https://github.com/ErsatzTV/ErsatzTV"
+
+- name: "Komga"
+  url: "https://github.com/gotson/komga"

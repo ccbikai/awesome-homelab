@@ -33,3 +33,6 @@
 
 - name: "Serge"
   url: "https://github.com/serge-chat/serge"
+
+- name: "LlamaGPT"
+  url: "https://github.com/getumbrel/llama-gpt"

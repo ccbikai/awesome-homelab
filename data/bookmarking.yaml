@@ -1,0 +1,11 @@
+- name: "Espial"
+  url: "https://github.com/jonschoning/espial"
+
+- name: "NeonLink"
+  url: "https://github.com/AlexSciFier/neonlink"
+
+- name: "linkding"
+  url: "https://github.com/sissbruecker/linkding"
+
+- name: "LinkAce"
+  url: "https://github.com/Kovah/LinkAce"

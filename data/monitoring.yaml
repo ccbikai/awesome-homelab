@@ -21,3 +21,6 @@
 
 - name: "Glances"
   url: "https://github.com/nicolargo/glances"
+
+- name: "Beszel"
+  url: "https://github.com/henrygd/beszel"

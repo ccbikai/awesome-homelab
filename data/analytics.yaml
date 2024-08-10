@@ -24,3 +24,6 @@
 
 - name: "Openpanel"
   url: "https://github.com/Openpanel-dev/openpanel"
+
+- name: "Medama"
+  url: "https://github.com/medama-io/medama"

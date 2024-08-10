@@ -1,14 +1,29 @@
 - name: virt-manager
   url: https://github.com/virt-manager/virt-manager
+
 - name: kube-virt
   url: https://github.com/kubevirt/kubevirt
+
 - name: OpenWrt
   url: https://github.com/openwrt/openwrt
+
 - name: openmediavault
   url: https://github.com/openmediavault/openmediavault
+
 - name: TrueNAS
   url: https://github.com/truenas/middleware
+
 - name: Runtipi
   url: https://github.com/runtipi/runtipi
+
 - name: Cockpit
   url: https://github.com/cockpit-project/cockpit
+
+- name: Proxmox
+  url: https://github.com/tteck/Proxmox
+
+- name: CasaOS
+  url: https://github.com/IceWhaleTech/CasaOS
+
+- name: "Cosmos"
+  url: "https://github.com/azukaar/Cosmos-Server"

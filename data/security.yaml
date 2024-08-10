@@ -6,3 +6,6 @@
 
 - name: "Passbolt"
   url: "https://github.com/passbolt/passbolt_api"
+
+- name: "vaultwarden"
+  url: "https://github.com/dani-garcia/vaultwarden"

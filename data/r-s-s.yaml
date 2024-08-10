@@ -9,3 +9,9 @@
 
 - name: "Tiny Tiny RSS"
   url: "https://gitlab.tt-rss.org/tt-rss/tt-rss"
+
+- name: "CommaFeed"
+  url: "https://github.com/Athou/commafeed"
+
+- name: "Miniflux"
+  url: "https://github.com/miniflux/v2"

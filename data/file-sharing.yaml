@@ -27,3 +27,12 @@
 
 - name: "zipline"
   url: "https://github.com/diced/zipline"
+
+- name: "Pingvin Share"
+  url: "https://github.com/stonith404/pingvin-share"
+
+- name: "OASIS"
+  url: "https://github.com/machengim/oasis"
+
+- name: "Blaze"
+  url: "https://github.com/blenderskool/blaze"
