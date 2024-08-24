@@ -27,3 +27,6 @@
 
 - name: "Cosmos"
   url: "https://github.com/azukaar/Cosmos-Server"
+
+- name: "Terminus"
+  url: "https://github.com/beclab/Terminus"
