@@ -15,3 +15,6 @@
 
 - name: "Miniflux"
   url: "https://github.com/miniflux/v2"
+
+- name: "Fusion"
+  url: "https://github.com/0x2E/fusion"

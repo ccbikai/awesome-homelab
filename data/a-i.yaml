@@ -36,3 +36,15 @@
 
 - name: "LlamaGPT"
   url: "https://github.com/getumbrel/llama-gpt"
+
+- name: "ComfyUI"
+  url: "https://github.com/comfyanonymous/ComfyUI"
+
+- name: "Dify"
+  url: "https://github.com/langgenius/dify"
+
+- name: "GaiaNet"
+  url: "https://github.com/GaiaNet-AI/gaianet-node"
+
+- name: "Perplexica"
+  url: "https://github.com/ItzCrazyKns/Perplexica"

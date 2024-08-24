@@ -60,3 +60,6 @@
 
 - name: "PicoShare"
   url: "https://github.com/mtlynch/picoshare"
+
+- name: "LiveSync"
+  url: "https://github.com/vrtmrz/obsidian-livesync"

@@ -12,3 +12,6 @@
 
 - name: "HomeGallery"
   url: "https://github.com/xemle/home-gallery"
+
+- name: "Photoview"
+  url: "https://github.com/photoview/photoview"

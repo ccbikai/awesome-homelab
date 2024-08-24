@@ -3,3 +3,6 @@
 
 - name: "Syncthing"
   url: "https://github.com/syncthing/syncthing"
+
+- name: "Radicale"
+  url: "https://github.com/Kozea/Radicale"

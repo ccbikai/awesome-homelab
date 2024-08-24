@@ -69,3 +69,12 @@
 
 - name: "Midarr"
   url: "https://github.com/midarrlabs/midarr-server"
+
+- name: "ChineseSubFinder"
+  url: "https://github.com/ChineseSubFinder/ChineseSubFinder"
+
+- name: "Prowlarr"
+  url: "https://github.com/Prowlarr/Prowlarr"
+
+- name: "SickChill"
+  url: "https://github.com/SickChill/SickChill"
