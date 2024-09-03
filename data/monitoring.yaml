@@ -1,32 +1,32 @@
-- name: "Grafana"
-  url: "https://github.com/grafana/grafana"
+- name: Grafana
+  url: 'https://github.com/grafana/grafana'
 
-- name: "Prometheus"
-  url: "https://github.com/prometheus/prometheus"
+- name: Prometheus
+  url: 'https://github.com/prometheus/prometheus'
 
-- name: "Zabbix"
-  url: "https://github.com/zabbix/zabbix"
+- name: Zabbix
+  url: 'https://github.com/zabbix/zabbix'
 
-- name: "Nagios"
-  url: "https://github.com/NagiosEnterprises/nagioscore"
+- name: Nagios
+  url: 'https://github.com/NagiosEnterprises/nagioscore'
 
-- name: "Netdata"
-  url: "https://github.com/netdata/netdata"
+- name: Netdata
+  url: 'https://github.com/netdata/netdata'
 
-- name: "Uptime Kuma"
-  url: "https://github.com/louislam/uptime-kuma"
+- name: Uptime Kuma
+  url: 'https://github.com/louislam/uptime-kuma'
 
-- name: "Change Detection"
-  url: "https://github.com/dgtlmoon/changedetection.io"
+- name: Change Detection
+  url: 'https://github.com/dgtlmoon/changedetection.io'
 
-- name: "Glances"
-  url: "https://github.com/nicolargo/glances"
+- name: Glances
+  url: 'https://github.com/nicolargo/glances'
 
-- name: "Beszel"
-  url: "https://github.com/henrygd/beszel"
+- name: Beszel
+  url: 'https://github.com/henrygd/beszel'
 
-- name: "Monocker"
-  url: "https://github.com/petersem/monocker"
+- name: Monocker
+  url: 'https://github.com/petersem/monocker'
 
-- name: "Doku"
-  url: "https://github.com/amerkurev/doku"
+- name: Doku
+  url: 'https://github.com/amerkurev/doku'

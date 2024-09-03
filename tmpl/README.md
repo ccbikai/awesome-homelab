@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="500" height="350" src="assets/logo.svg" alt="Awesome Homelab">
+  <img width="500" height="350" src="assets/logo.svg" alt="Awesome Homelab">
 </div>
 
 # Awesome Homelab

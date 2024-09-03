@@ -1,8 +1,8 @@
-- name: "Cal.com"
-  url: "https://github.com/calcom/cal.com"
+- name: Cal.com
+  url: 'https://github.com/calcom/cal.com'
 
-- name: "MIND"
-  url: "https://github.com/Casvt/MIND"
+- name: MIND
+  url: 'https://github.com/Casvt/MIND'
 
-- name: "Rallly"
-  url: "https://github.com/lukevella/rallly"
+- name: Rallly
+  url: 'https://github.com/lukevella/rallly'

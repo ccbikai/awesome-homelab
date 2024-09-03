@@ -25,11 +25,11 @@
 - name: CasaOS
   url: https://github.com/IceWhaleTech/CasaOS
 
-- name: "Cosmos"
-  url: "https://github.com/azukaar/Cosmos-Server"
+- name: Cosmos
+  url: 'https://github.com/azukaar/Cosmos-Server'
 
-- name: "Terminus"
-  url: "https://github.com/beclab/Terminus"
+- name: Terminus
+  url: 'https://github.com/beclab/Terminus'
 
 - name: Traefik
   url: https://github.com/traefik/traefik

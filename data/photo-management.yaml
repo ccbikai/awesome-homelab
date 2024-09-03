@@ -1,17 +1,17 @@
-- name: "LibrePhotos"
-  url: "https://github.com/LibrePhotos/librephotos"
+- name: LibrePhotos
+  url: 'https://github.com/LibrePhotos/librephotos'
 
-- name: "immich"
-  url: "https://github.com/immich-app/immich"
+- name: immich
+  url: 'https://github.com/immich-app/immich'
 
-- name: "PhotoPrism"
-  url: "https://github.com/photoprism/photoprism"
+- name: PhotoPrism
+  url: 'https://github.com/photoprism/photoprism'
 
-- name: "Ente"
-  url: "https://github.com/ente-io/ente"
+- name: Ente
+  url: 'https://github.com/ente-io/ente'
 
-- name: "HomeGallery"
-  url: "https://github.com/xemle/home-gallery"
+- name: HomeGallery
+  url: 'https://github.com/xemle/home-gallery'
 
-- name: "Photoview"
-  url: "https://github.com/photoview/photoview"
+- name: Photoview
+  url: 'https://github.com/photoview/photoview'

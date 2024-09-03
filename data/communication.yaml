@@ -1,32 +1,32 @@
-- name: "Jitsi"
-  url: "https://github.com/jitsi/jitsi-meet"
+- name: Jitsi
+  url: 'https://github.com/jitsi/jitsi-meet'
 
-- name: "Matrix"
-  url: "https://github.com/matrix-org/synapse"
+- name: Matrix
+  url: 'https://github.com/matrix-org/synapse'
 
-- name: "Mattermost"
-  url: "https://github.com/mattermost/mattermost-server"
+- name: Mattermost
+  url: 'https://github.com/mattermost/mattermost-server'
 
-- name: "Nextcloud Talk"
-  url: "https://github.com/nextcloud/spreed"
+- name: Nextcloud Talk
+  url: 'https://github.com/nextcloud/spreed'
 
-- name: "Rocket.Chat"
-  url: "https://github.com/RocketChat/Rocket.Chat"
+- name: Rocket.Chat
+  url: 'https://github.com/RocketChat/Rocket.Chat'
 
-- name: "Signal"
-  url: "https://github.com/signalapp/Signal-Server"
+- name: Signal
+  url: 'https://github.com/signalapp/Signal-Server'
 
-- name: "Zulip"
-  url: "https://github.com/zulip/zulip"
+- name: Zulip
+  url: 'https://github.com/zulip/zulip'
 
-- name: "Databag"
-  url: "https://github.com/balzack/databag"
+- name: Databag
+  url: 'https://github.com/balzack/databag'
 
-- name: "Conduit"
-  url: "https://gitlab.com/famedly/conduit"
+- name: Conduit
+  url: 'https://gitlab.com/famedly/conduit'
 
-- name: "Revolt"
-  url: "https://github.com/revoltchat/revolt"
+- name: Revolt
+  url: 'https://github.com/revoltchat/revolt'
 
 - name: Discourse
   url: https://github.com/discourse/discourse

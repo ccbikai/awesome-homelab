@@ -1,14 +1,14 @@
-- name: "Jenkins"
-  url: "https://github.com/jenkinsci/jenkins"
+- name: Jenkins
+  url: 'https://github.com/jenkinsci/jenkins'
 
-- name: "GitLab CI"
-  url: "https://gitlab.com/gitlab-org/gitlab"
+- name: GitLab CI
+  url: 'https://gitlab.com/gitlab-org/gitlab'
 
-- name: "Drone"
-  url: "https://github.com/drone/drone"
+- name: Drone
+  url: 'https://github.com/drone/drone'
 
-- name: "ArgoCD"
-  url: "https://github.com/argoproj/argo-cd"
+- name: ArgoCD
+  url: 'https://github.com/argoproj/argo-cd'
 
-- name: "Tekton"
-  url: "https://github.com/tektoncd/pipeline"
+- name: Tekton
+  url: 'https://github.com/tektoncd/pipeline'

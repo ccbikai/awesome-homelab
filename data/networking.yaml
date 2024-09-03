@@ -1,14 +1,14 @@
-- name: "Tailscale"
-  url: "https://github.com/tailscale/tailscale"
+- name: Tailscale
+  url: 'https://github.com/tailscale/tailscale'
 
-- name: "Wireguard"
-  url: "https://github.com/WireGuard/wireguard"
+- name: Wireguard
+  url: 'https://github.com/WireGuard/wireguard'
 
-- name: "ZeroTier"
-  url: "https://github.com/zerotier/ZeroTierOne"
+- name: ZeroTier
+  url: 'https://github.com/zerotier/ZeroTierOne'
 
-- name: "SmokePing"
-  url: "https://github.com/oetiker/SmokePing"
+- name: SmokePing
+  url: 'https://github.com/oetiker/SmokePing'
 
-- name: "ntopng"
-  url: "https://github.com/ntop/ntopng"
+- name: ntopng
+  url: 'https://github.com/ntop/ntopng'

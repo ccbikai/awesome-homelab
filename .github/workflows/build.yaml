@@ -2,7 +2,7 @@ name: Update Repos Info
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   schedule:
     - cron: '22 22 * * *'
   workflow_dispatch:
@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: ['22.x']
+        node-version: [22.x]
     steps:
       - uses: actions/checkout@v4
         with:
@@ -28,7 +28,7 @@ jobs:
             - recursive: true
               args: [--frozen-lockfile, --strict-peer-dependencies]
       - run: pnpm build
-        env: 
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & Push changes

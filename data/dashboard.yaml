@@ -1,29 +1,29 @@
-- name: "dash. "
-  url: "https://github.com/MauriceNino/dashdot"
+- name: 'dash. '
+  url: 'https://github.com/MauriceNino/dashdot'
 
-- name: "Dashy"
-  url: "https://github.com/lissy93/dashy"
+- name: Dashy
+  url: 'https://github.com/lissy93/dashy'
 
-- name: "Glance"
-  url: "https://github.com/glanceapp/glance"
+- name: Glance
+  url: 'https://github.com/glanceapp/glance'
 
-- name: "Heimdall"
-  url: "https://github.com/linuxserver/Heimdall"
+- name: Heimdall
+  url: 'https://github.com/linuxserver/Heimdall'
 
-- name: "Homarr"
-  url: "https://github.com/ajnart/homarr"
+- name: Homarr
+  url: 'https://github.com/ajnart/homarr'
 
-- name: "Homepage"
-  url: "https://github.com/gethomepage/homepage"
+- name: Homepage
+  url: 'https://github.com/gethomepage/homepage'
 
-- name: "homer"
-  url: "https://github.com/bastienwirtz/homer"
+- name: homer
+  url: 'https://github.com/bastienwirtz/homer'
 
-- name: "Flame"
-  url: "https://github.com/pawelmalak/flame"
+- name: Flame
+  url: 'https://github.com/pawelmalak/flame'
 
-- name: "Web Portal"
-  url: "https://github.com/enchant97/web-portal"
+- name: Web Portal
+  url: 'https://github.com/enchant97/web-portal'
 
-- name: "Jump"
-  url: "https://github.com/daledavies/jump"
+- name: Jump
+  url: 'https://github.com/daledavies/jump'

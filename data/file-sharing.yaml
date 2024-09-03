@@ -1,65 +1,65 @@
-- name: "Nextcloud"
-  url: "https://github.com/nextcloud/server"
+- name: Nextcloud
+  url: 'https://github.com/nextcloud/server'
 
-- name: "Seafile"
-  url: "https://github.com/haiwen/seafile"
+- name: Seafile
+  url: 'https://github.com/haiwen/seafile'
 
-- name: "ProjectSend"
-  url: "https://github.com/projectsend/projectsend"
+- name: ProjectSend
+  url: 'https://github.com/projectsend/projectsend'
 
-- name: "Pydio Cells"
-  url: "https://github.com/pydio/cells"
+- name: Pydio Cells
+  url: 'https://github.com/pydio/cells'
 
-- name: "File Browser"
-  url: "https://github.com/filebrowser/filebrowser"
+- name: File Browser
+  url: 'https://github.com/filebrowser/filebrowser'
 
-- name: "Fireshare"
-  url: "https://github.com/ShaneIsrael/fireshare"
+- name: Fireshare
+  url: 'https://github.com/ShaneIsrael/fireshare'
 
-- name: "ownCloud"
-  url: "https://github.com/owncloud/core"
+- name: ownCloud
+  url: 'https://github.com/owncloud/core'
 
-- name: "PairDrop"
-  url: "https://github.com/schlagmichdoch/PairDrop"
+- name: PairDrop
+  url: 'https://github.com/schlagmichdoch/PairDrop'
 
-- name: "send"
-  url: "https://gitlab.com/timvisee/send"
+- name: send
+  url: 'https://gitlab.com/timvisee/send'
 
-- name: "zipline"
-  url: "https://github.com/diced/zipline"
+- name: zipline
+  url: 'https://github.com/diced/zipline'
 
-- name: "Pingvin Share"
-  url: "https://github.com/stonith404/pingvin-share"
+- name: Pingvin Share
+  url: 'https://github.com/stonith404/pingvin-share'
 
-- name: "OASIS"
-  url: "https://github.com/machengim/oasis"
+- name: OASIS
+  url: 'https://github.com/machengim/oasis'
 
-- name: "Blaze"
-  url: "https://github.com/blenderskool/blaze"
+- name: Blaze
+  url: 'https://github.com/blenderskool/blaze'
 
-- name: "PrivateBin"
-  url: "https://github.com/PrivateBin/PrivateBin"
+- name: PrivateBin
+  url: 'https://github.com/PrivateBin/PrivateBin'
 
-- name: "Gokapi"
-  url: "https://github.com/Forceu/Gokapi"
+- name: Gokapi
+  url: 'https://github.com/Forceu/Gokapi'
 
-- name: "Fireshare"
-  url: "https://github.com/ShaneIsrael/fireshare"
+- name: Fireshare
+  url: 'https://github.com/ShaneIsrael/fireshare'
 
-- name: "Zipline"
-  url: "https://github.com/diced/zipline"
+- name: Zipline
+  url: 'https://github.com/diced/zipline'
 
-- name: "Dufs"
-  url: "https://github.com/sigoden/dufs"
+- name: Dufs
+  url: 'https://github.com/sigoden/dufs'
 
-- name: "Uppy"
-  url: "https://github.com/transloadit/uppy"
+- name: Uppy
+  url: 'https://github.com/transloadit/uppy'
 
-- name: "Snapdrop"
-  url: "https://github.com/RobinLinus/snapdrop"
+- name: Snapdrop
+  url: 'https://github.com/RobinLinus/snapdrop'
 
-- name: "PicoShare"
-  url: "https://github.com/mtlynch/picoshare"
+- name: PicoShare
+  url: 'https://github.com/mtlynch/picoshare'
 
-- name: "LiveSync"
-  url: "https://github.com/vrtmrz/obsidian-livesync"
+- name: LiveSync
+  url: 'https://github.com/vrtmrz/obsidian-livesync'

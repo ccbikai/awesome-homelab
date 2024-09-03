@@ -1,56 +1,56 @@
-- name: "AFFiNE"
-  url: "https://github.com/toeverything/affine"
+- name: AFFiNE
+  url: 'https://github.com/toeverything/affine'
 
-- name: "ArchiveBox"
-  url: "https://github.com/ArchiveBox/ArchiveBox"
+- name: ArchiveBox
+  url: 'https://github.com/ArchiveBox/ArchiveBox'
 
-- name: "BookStack"
-  url: "https://github.com/BookStackApp/BookStack"
+- name: BookStack
+  url: 'https://github.com/BookStackApp/BookStack'
 
-- name: "flatnotes"
-  url: "https://github.com/Dullage/flatnotes"
+- name: flatnotes
+  url: 'https://github.com/Dullage/flatnotes'
 
-- name: "Joplin"
-  url: "https://github.com/laurent22/joplin"
+- name: Joplin
+  url: 'https://github.com/laurent22/joplin'
 
-- name: "Linkwarden"
-  url: "https://github.com/linkwarden/linkwarden"
+- name: Linkwarden
+  url: 'https://github.com/linkwarden/linkwarden'
 
-- name: "NocoDB"
-  url: "https://github.com/nocodb/nocodb"
+- name: NocoDB
+  url: 'https://github.com/nocodb/nocodb'
 
-- name: "Note Mark"
-  url: "https://github.com/enchant97/note-mark/"
+- name: Note Mark
+  url: 'https://github.com/enchant97/note-mark/'
 
-- name: "Outline"
-  url: "https://github.com/outline/outline"
+- name: Outline
+  url: 'https://github.com/outline/outline'
 
-- name: "Paperless-ngx"
-  url: "https://github.com/paperless-ngx/paperless-ngx"
+- name: Paperless-ngx
+  url: 'https://github.com/paperless-ngx/paperless-ngx'
 
-- name: "Tasks.md"
-  url: "https://github.com/BaldissaraMatheus/Tasks.md"
+- name: Tasks.md
+  url: 'https://github.com/BaldissaraMatheus/Tasks.md'
 
-- name: "Trilium Notes"
-  url: "https://github.com/zadam/trilium"
+- name: Trilium Notes
+  url: 'https://github.com/zadam/trilium'
 
-- name: "Logseq"
-  url: "https://github.com/logseq/logseq"
+- name: Logseq
+  url: 'https://github.com/logseq/logseq'
 
-- name: "Docmost"
-  url: "https://github.com/docmost/docmost"
+- name: Docmost
+  url: 'https://github.com/docmost/docmost'
 
-- name: "Docspell"
-  url: "https://github.com/eikek/docspell"
+- name: Docspell
+  url: 'https://github.com/eikek/docspell'
 
-- name: "Papermerge"
-  url: "https://github.com/ciur/papermerge"
+- name: Papermerge
+  url: 'https://github.com/ciur/papermerge'
 
-- name: "Servas"
-  url: "https://github.com/beromir/Servas"
+- name: Servas
+  url: 'https://github.com/beromir/Servas'
 
-- name: "Documize"
-  url: "https://github.com/documize/community"
+- name: Documize
+  url: 'https://github.com/documize/community'
 
-- name: "HedgeDoc"
-  url: "https://github.com/hedgedoc/hedgedoc"
+- name: HedgeDoc
+  url: 'https://github.com/hedgedoc/hedgedoc'

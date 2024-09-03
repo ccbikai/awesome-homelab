@@ -1,21 +1,37 @@
 {
   "name": "awesome-homelab",
-  "private": true,
-  "version": "1.0.0",
   "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@9.4.0",
   "description": "Awesome Homelab",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
   "main": "script/index.js",
   "scripts": {
     "dev": "node --env-file .env script/index.js",
-    "build": "node script/index.js"
+    "build": "node script/index.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "postinstall": "simple-git-hooks"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "packageManager": "pnpm@9.4.0+sha256.b6fd0bfda555e7e584ad7e56b30c68b01d5a04f9ee93989f4b93ca8473c49c74",
   "dependencies": {
     "hosted-git-info": "^7.0.2",
     "markdown-table": "^3.0.3",
     "yaml": "^2.4.5"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^3.0.0",
+    "eslint": "^9.9.1",
+    "eslint-plugin-format": "^0.1.2",
+    "lint-staged": "^15.2.10",
+    "simple-git-hooks": "^2.11.1"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "pnpm lint-staged"
+  },
+  "lint-staged": {
+    "*": "eslint --fix"
   }
 }

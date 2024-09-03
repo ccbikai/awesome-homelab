@@ -1,8 +1,8 @@
-- name: "Stalwart"
-  url: "https://github.com/stalwartlabs/mail-server"
+- name: Stalwart
+  url: 'https://github.com/stalwartlabs/mail-server'
 
-- name: "mailcow"
-  url: "https://github.com/mailcow/mailcow-dockerized"
+- name: mailcow
+  url: 'https://github.com/mailcow/mailcow-dockerized'
 
-- name: "listmonk"
-  url: "https://github.com/knadh/listmonk"
+- name: listmonk
+  url: 'https://github.com/knadh/listmonk'

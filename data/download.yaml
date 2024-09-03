@@ -1,32 +1,32 @@
-- name: "autobrr"
-  url: "https://github.com/autobrr/autobrr"
+- name: autobrr
+  url: 'https://github.com/autobrr/autobrr'
 
-- name: "Barrage"
-  url: "https://github.com/maulik9898/barrage"
+- name: Barrage
+  url: 'https://github.com/maulik9898/barrage'
 
-- name: "bitmagnet"
-  url: "https://github.com/bitmagnet-io/bitmagnet"
+- name: bitmagnet
+  url: 'https://github.com/bitmagnet-io/bitmagnet'
 
-- name: "Deluge"
-  url: "https://github.com/deluge-torrent/deluge"
+- name: Deluge
+  url: 'https://github.com/deluge-torrent/deluge'
 
-- name: "Mylar3"
-  url: "https://github.com/mylar3/mylar3"
+- name: Mylar3
+  url: 'https://github.com/mylar3/mylar3'
 
-- name: "PodFetch"
-  url: "https://github.com/SamTV12345/PodFetch"
+- name: PodFetch
+  url: 'https://github.com/SamTV12345/PodFetch'
 
-- name: "qBittorrent"
-  url: "https://github.com/qbittorrent/qBittorrent"
+- name: qBittorrent
+  url: 'https://github.com/qbittorrent/qBittorrent'
 
-- name: "SABnzbd"
-  url: "https://github.com/sabnzbd/sabnzbd"
+- name: SABnzbd
+  url: 'https://github.com/sabnzbd/sabnzbd'
 
-- name: "Transmission"
-  url: "https://github.com/transmission/transmission"
+- name: Transmission
+  url: 'https://github.com/transmission/transmission'
 
-- name: "Flood"
-  url: "https://github.com/jesec/flood"
+- name: Flood
+  url: 'https://github.com/jesec/flood'
 
-- name: "pinchflat"
-  url: "https://github.com/kieraneglin/pinchflat"
+- name: pinchflat
+  url: 'https://github.com/kieraneglin/pinchflat'

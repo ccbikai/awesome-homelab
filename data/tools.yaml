@@ -1,71 +1,71 @@
-- name: "IT-Tools"
-  url: "https://github.com/CorentinTh/it-tools"
+- name: IT-Tools
+  url: 'https://github.com/CorentinTh/it-tools'
 
-- name: "Moodist"
-  url: "https://github.com/remvze/moodist"
+- name: Moodist
+  url: 'https://github.com/remvze/moodist'
 
-- name: "Penpot"
-  url: "https://github.com/penpot/penpot"
+- name: Penpot
+  url: 'https://github.com/penpot/penpot'
 
-- name: "Ryot"
-  url: "https://github.com/IgnisDa/ryot"
+- name: Ryot
+  url: 'https://github.com/IgnisDa/ryot'
 
-- name: "Shlink"
-  url: "https://github.com/shlinkio/shlink"
+- name: Shlink
+  url: 'https://github.com/shlinkio/shlink'
 
-- name: "Stirling-PDF"
-  url: "https://github.com/Stirling-Tools/Stirling-PDF"
+- name: Stirling-PDF
+  url: 'https://github.com/Stirling-Tools/Stirling-PDF'
 
-- name: "Tandoor Recipes"
-  url: "https://github.com/TandoorRecipes/recipes"
+- name: Tandoor Recipes
+  url: 'https://github.com/TandoorRecipes/recipes'
 
-- name: "TeslaMate"
-  url: "https://github.com/teslamate-org/teslamate"
+- name: TeslaMate
+  url: 'https://github.com/teslamate-org/teslamate'
 
-- name: "Snapp"
-  url: "https://github.com/urania-dev/snapp"
+- name: Snapp
+  url: 'https://github.com/urania-dev/snapp'
 
-- name: "jetlog"
-  url: "https://github.com/pbogre/jetlog"
+- name: jetlog
+  url: 'https://github.com/pbogre/jetlog'
 
-- name: "PdfDing"
-  url: "https://codeberg.org/mrmn/PdfDing"
+- name: PdfDing
+  url: 'https://codeberg.org/mrmn/PdfDing'
 
-- name: "Zimit"
-  url: "https://github.com/openzim/zimit"
+- name: Zimit
+  url: 'https://github.com/openzim/zimit'
 
-- name: "Hoarder"
-  url: "https://github.com/hoarder-app/hoarder"
+- name: Hoarder
+  url: 'https://github.com/hoarder-app/hoarder'
 
-- name: "MicroBin"
-  url: "https://github.com/szabodanika/microbin"
+- name: MicroBin
+  url: 'https://github.com/szabodanika/microbin'
 
-- name: "Kutt"
-  url: "https://github.com/thedevs-network/kutt"
+- name: Kutt
+  url: 'https://github.com/thedevs-network/kutt'
 
-- name: "Sink"
-  url: "https://github.com/ccbikai/sink"
+- name: Sink
+  url: 'https://github.com/ccbikai/sink'
 
-- name: "LittleLink-Server"
-  url: "https://github.com/techno-tim/littlelink-server"
+- name: LittleLink-Server
+  url: 'https://github.com/techno-tim/littlelink-server'
 
-- name: "Wishthis"
-  url: "https://github.com/wishthis/wishthis"
+- name: Wishthis
+  url: 'https://github.com/wishthis/wishthis'
 
-- name: "UpSnap"
-  url: "https://github.com/seriousm4x/UpSnap"
+- name: UpSnap
+  url: 'https://github.com/seriousm4x/UpSnap'
 
-- name: "SerpBear"
-  url: "https://github.com/towfiqi/serpbear"
+- name: SerpBear
+  url: 'https://github.com/towfiqi/serpbear'
 
-- name: "Vikunja"
-  url: "https://github.com/go-vikunja/vikunja"
+- name: Vikunja
+  url: 'https://github.com/go-vikunja/vikunja'
 
-- name: "M4TT72 Terminal"
-  url: "https://github.com/m4tt72/terminal"
+- name: M4TT72 Terminal
+  url: 'https://github.com/m4tt72/terminal'
 
-- name: "Commento++"
-  url: "https://github.com/souramoo/commentoplusplus"
+- name: 'Commento++'
+  url: 'https://github.com/souramoo/commentoplusplus'
 
 - name: revealjs
   url: https://github.com/hakimel/reveal.js

@@ -1,80 +1,80 @@
-- name: "Audiobookshelf"
-  url: "https://github.com/advplyr/audiobookshelf"
+- name: Audiobookshelf
+  url: 'https://github.com/advplyr/audiobookshelf'
 
-- name: "Jellyfin"
-  url: "https://github.com/jellyfin/jellyfin"
+- name: Jellyfin
+  url: 'https://github.com/jellyfin/jellyfin'
 
-- name: "Emby"
-  url: "https://github.com/MediaBrowser/Emby"
+- name: Emby
+  url: 'https://github.com/MediaBrowser/Emby'
 
-- name: "Komga"
-  url: "https://github.com/gotson/komga"
+- name: Komga
+  url: 'https://github.com/gotson/komga'
 
-- name: "Navidrome"
-  url: "https://github.com/navidrome/navidrome"
+- name: Navidrome
+  url: 'https://github.com/navidrome/navidrome'
 
-- name: "Plex"
-  url: "https://github.com/plexinc/pms-docker"
+- name: Plex
+  url: 'https://github.com/plexinc/pms-docker'
 
-- name: "Bazarr"
-  url: "https://github.com/morpheus65535/bazarr"
+- name: Bazarr
+  url: 'https://github.com/morpheus65535/bazarr'
 
-- name: "Booksonic Air"
-  url: "https://github.com/popeen/Booksonic-Air"
+- name: Booksonic Air
+  url: 'https://github.com/popeen/Booksonic-Air'
 
-- name: "Calibre"
-  url: "https://github.com/janeczku/calibre-web"
+- name: Calibre
+  url: 'https://github.com/janeczku/calibre-web'
 
-- name: "Jackett"
-  url: "https://github.com/Jackett/Jackett"
+- name: Jackett
+  url: 'https://github.com/Jackett/Jackett'
 
-- name: "Kapowarr"
-  url: "https://github.com/Casvt/Kapowarr"
+- name: Kapowarr
+  url: 'https://github.com/Casvt/Kapowarr'
 
-- name: "Kavita"
-  url: "https://github.com/Kareadita/Kavita"
+- name: Kavita
+  url: 'https://github.com/Kareadita/Kavita'
 
-- name: "Koillection"
-  url: "https://github.com/benjaminjonard/koillection"
+- name: Koillection
+  url: 'https://github.com/benjaminjonard/koillection'
 
-- name: "Lidarr"
-  url: "https://github.com/Lidarr/Lidarr"
+- name: Lidarr
+  url: 'https://github.com/Lidarr/Lidarr'
 
-- name: "Maintainerr"
-  url: "https://github.com/jorenn92/Maintainerr"
+- name: Maintainerr
+  url: 'https://github.com/jorenn92/Maintainerr'
 
-- name: "Overseerr"
-  url: "https://github.com/sct/overseerr"
+- name: Overseerr
+  url: 'https://github.com/sct/overseerr'
 
-- name: "Radarr"
-  url: "https://github.com/Radarr/Radarr"
+- name: Radarr
+  url: 'https://github.com/Radarr/Radarr'
 
-- name: "Readarr"
-  url: "https://github.com/Readarr/Readarr"
+- name: Readarr
+  url: 'https://github.com/Readarr/Readarr'
 
-- name: "Sonarr"
-  url: "https://github.com/Sonarr/Sonarr"
+- name: Sonarr
+  url: 'https://github.com/Sonarr/Sonarr'
 
-- name: "MoviePilot"
-  url: "https://github.com/jxxghp/MoviePilot"
+- name: MoviePilot
+  url: 'https://github.com/jxxghp/MoviePilot'
 
-- name: "ErsatzTV"
-  url: "https://github.com/ErsatzTV/ErsatzTV"
+- name: ErsatzTV
+  url: 'https://github.com/ErsatzTV/ErsatzTV'
 
-- name: "Komga"
-  url: "https://github.com/gotson/komga"
+- name: Komga
+  url: 'https://github.com/gotson/komga'
 
-- name: "Jellyseerr"
-  url: "https://github.com/Fallenbagel/jellyseerr"
+- name: Jellyseerr
+  url: 'https://github.com/Fallenbagel/jellyseerr'
 
-- name: "Midarr"
-  url: "https://github.com/midarrlabs/midarr-server"
+- name: Midarr
+  url: 'https://github.com/midarrlabs/midarr-server'
 
-- name: "ChineseSubFinder"
-  url: "https://github.com/ChineseSubFinder/ChineseSubFinder"
+- name: ChineseSubFinder
+  url: 'https://github.com/ChineseSubFinder/ChineseSubFinder'
 
-- name: "Prowlarr"
-  url: "https://github.com/Prowlarr/Prowlarr"
+- name: Prowlarr
+  url: 'https://github.com/Prowlarr/Prowlarr'
 
-- name: "SickChill"
-  url: "https://github.com/SickChill/SickChill"
+- name: SickChill
+  url: 'https://github.com/SickChill/SickChill'

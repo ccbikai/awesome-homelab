@@ -1,23 +1,23 @@
-- name: "Factorio"
-  url: "https://github.com/factoriotools/factorio-docker"
+- name: Factorio
+  url: 'https://github.com/factoriotools/factorio-docker'
 
-- name: "Minetest"
-  url: "https://github.com/minetest/minetest"
+- name: Minetest
+  url: 'https://github.com/minetest/minetest'
 
-- name: "Minecraft"
-  url: "https://github.com/itzg/docker-minecraft-server"
+- name: Minecraft
+  url: 'https://github.com/itzg/docker-minecraft-server'
 
-- name: "Terraria"
-  url: "https://github.com/ryansheehan/terraria"
+- name: Terraria
+  url: 'https://github.com/ryansheehan/terraria'
 
-- name: "Valheim"
-  url: "https://github.com/lloesche/valheim-server-docker"
+- name: Valheim
+  url: 'https://github.com/lloesche/valheim-server-docker'
 
-- name: "Crafty"
-  url: "https://gitlab.com/crafty-controller/crafty-4"
+- name: Crafty
+  url: 'https://gitlab.com/crafty-controller/crafty-4'
 
-- name: "Lodestone"
-  url: "https://github.com/Lodestone-Team/lodestone_core"
+- name: Lodestone
+  url: 'https://github.com/Lodestone-Team/lodestone_core'
 
-- name: "NextGBA"
-  url: "https://github.com/meienberger/nextgba"
+- name: NextGBA
+  url: 'https://github.com/meienberger/nextgba'

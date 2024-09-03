@@ -1,8 +1,8 @@
-- name: "Actual"
-  url: "https://github.com/actualbudget/actual-server"
+- name: Actual
+  url: 'https://github.com/actualbudget/actual-server'
 
-- name: "Firefly"
-  url: "https://github.com/firefly-iii/firefly-iii"
+- name: Firefly
+  url: 'https://github.com/firefly-iii/firefly-iii'
 
-- name: "Wallos"
-  url: "https://github.com/ellite/Wallos"
+- name: Wallos
+  url: 'https://github.com/ellite/Wallos'

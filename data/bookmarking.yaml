@@ -1,14 +1,14 @@
-- name: "Espial"
-  url: "https://github.com/jonschoning/espial"
+- name: Espial
+  url: 'https://github.com/jonschoning/espial'
 
-- name: "NeonLink"
-  url: "https://github.com/AlexSciFier/neonlink"
+- name: NeonLink
+  url: 'https://github.com/AlexSciFier/neonlink'
 
-- name: "linkding"
-  url: "https://github.com/sissbruecker/linkding"
+- name: linkding
+  url: 'https://github.com/sissbruecker/linkding'
 
-- name: "LinkAce"
-  url: "https://github.com/Kovah/LinkAce"
+- name: LinkAce
+  url: 'https://github.com/Kovah/LinkAce'
 
-- name: "Benotes"
-  url: "https://github.com/fr0tt/benotes"
+- name: Benotes
+  url: 'https://github.com/fr0tt/benotes'

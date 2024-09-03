@@ -1,10 +1,10 @@
-import fs from 'fs'
-import path from 'path'
+import fs from 'node:fs'
+import path from 'node:path'
 import yaml from 'yaml'
 import { markdownTable } from 'markdown-table'
 
 import { getYAMLFiles } from './yaml.js'
-import { toPascalCase, getRepoInfo, getTitle, getBadge } from './utils.js'
+import { getBadge, getRepoInfo, getTitle, toPascalCase } from './utils.js'
 
 const dataDir = './data'
 const yamlFiles = getYAMLFiles(dataDir)
@@ -17,7 +17,7 @@ const categoryList = await Promise.all(
       const apps = yaml.parse(data)
       return {
         apps,
-        name: toPascalCase(yamlFile.replace('.yaml', ''))
+        name: toPascalCase(yamlFile.replace('.yaml', '')),
       }
     })
     .sort((a, b) => a.name.localeCompare(b.name))
@@ -26,27 +26,27 @@ const categoryList = await Promise.all(
         category.apps.map(async (project) => {
           project.info = await getRepoInfo(project.url)
           return project
-        })
+        }),
       )
       category.apps = category.apps.sort((a, b) => b.info.stars - a.info.stars)
-      console.log(category.name)
+      console.info(category.name)
       console.table(category.apps)
       return category
-    })
+    }),
 )
 
 const markdown = categoryList
   .map((category) => {
     const list = [['Name', 'Info', 'Description']].concat(
-      category.apps.map((project) => [
+      category.apps.map(project => [
         getTitle(project),
         [
           getBadge(project, 'stars'),
-          getBadge(project, 'language')
+          getBadge(project, 'language'),
           // getBadge(project, 'license')
         ].join(' '),
-        project.description || project.info?.description
-      ])
+        project.description || project.info?.description,
+      ]),
     )
     const appsMd = markdownTable(list)
     return `### ${category.name}\n\n${appsMd}`

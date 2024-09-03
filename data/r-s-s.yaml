@@ -1,20 +1,20 @@
-- name: "FreshRSS"
-  url: "https://github.com/FreshRSS/FreshRSS"
+- name: FreshRSS
+  url: 'https://github.com/FreshRSS/FreshRSS'
 
-- name: "RSS"
-  url: "https://github.com/ssddanbrown/rss"
+- name: RSS
+  url: 'https://github.com/ssddanbrown/rss'
 
-- name: "RSSHub"
-  url: "https://github.com/DIYgod/RSSHub"
+- name: RSSHub
+  url: 'https://github.com/DIYgod/RSSHub'
 
-- name: "Tiny Tiny RSS"
-  url: "https://gitlab.tt-rss.org/tt-rss/tt-rss"
+- name: Tiny Tiny RSS
+  url: 'https://gitlab.tt-rss.org/tt-rss/tt-rss'
 
-- name: "CommaFeed"
-  url: "https://github.com/Athou/commafeed"
+- name: CommaFeed
+  url: 'https://github.com/Athou/commafeed'
 
-- name: "Miniflux"
-  url: "https://github.com/miniflux/v2"
+- name: Miniflux
+  url: 'https://github.com/miniflux/v2'
 
-- name: "Fusion"
-  url: "https://github.com/0x2E/fusion"
+- name: Fusion
+  url: 'https://github.com/0x2E/fusion'

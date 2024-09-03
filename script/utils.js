@@ -1,35 +1,35 @@
 import hostedGitInfo from 'hosted-git-info'
+
 export function toPascalCase(str) {
   return str
-    .replace(/(?:^\w|[A-Z]|\b\w)/g, function (word, index) {
-      return index === 0 ? word.toUpperCase() : word.toUpperCase();
-    }).replace(/\s+/g, '').replace(/-/g, '');
-
+    .replace(/^\w|[A-Z]|\b\w/g, (word, index) => {
+      return index === 0 ? word.toUpperCase() : word.toUpperCase()
+    }).replace(/\s+/g, '').replace(/-/g, '')
 }
 
 export async function getRepoInfo(url) {
   const repo = hostedGitInfo.fromUrl(url)
   try {
     if (!repo) {
-      const info  = new URL(url)
+      const info = new URL(url)
       const [user, project] = info.pathname.slice(1).split('/')
-      const res = await fetch(`${info.origin}/api/v4/projects/${encodeURIComponent(user + '/' + project)}`)
+      const res = await fetch(`${info.origin}/api/v4/projects/${encodeURIComponent(`${user}/${project}`)}`)
       const data = await res.json()
       return {
         type: 'gitlab',
-        user: user,
-        project: project,
+        user,
+        project,
         stars: data.star_count,
         description: data.description,
         language: data.language,
-        topics: data.topics || []
+        topics: data.topics || [],
       }
     }
     if (repo.type === 'github') {
       const res = await fetch(`https://api.github.com/repos/${repo.user}/${repo.project}`, {
         headers: {
-          Authorization: `Bearer ${process.env.GITHUB_TOKEN}`
-        }
+          Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
+        },
       })
       const data = await res.json()
       return {
@@ -39,11 +39,11 @@ export async function getRepoInfo(url) {
         stars: data.stargazers_count,
         description: data.description,
         language: data.language,
-        topics: data.topics || []
+        topics: data.topics || [],
       }
-
-    } if (repo.type === 'gitlab') {
-      const res = await fetch(`https://gitlab.com/api/v4/projects/${encodeURIComponent(repo.user + '/' + repo.project)}`)
+    }
+    if (repo.type === 'gitlab') {
+      const res = await fetch(`https://gitlab.com/api/v4/projects/${encodeURIComponent(`${repo.user}/${repo.project}`)}`)
       const data = await res.json()
       return {
         type: 'gitlab',
@@ -52,10 +52,11 @@ export async function getRepoInfo(url) {
         stars: data.star_count,
         description: data.description,
         language: data.language,
-        topics: data.topics || []
+        topics: data.topics || [],
       }
     }
-  } catch (e) {
+  }
+  catch (e) {
     console.error(url, repo, e)
     return {}
   }
@@ -63,7 +64,7 @@ export async function getRepoInfo(url) {
   return {}
 }
 
-export function getBadge (project, type) {
+export function getBadge(project, type) {
   if (project.info.type === 'github') {
     if (type === 'stars') {
       return `![${project.name}](https://img.shields.io/${project.info.type}/stars/${project.info.user}/${project.info.project}?style=flat)`
@@ -74,22 +75,24 @@ export function getBadge (project, type) {
     if (type === 'language') {
       return `![${project.name}](https://img.shields.io/${project.info.type}/languages/top/${project.info.user}/${project.info.project}?style=flat)`
     }
-  } else if (project.info.type === 'gitlab') {
+  }
+  else if (project.info.type === 'gitlab') {
     const url = new URL(project.url)
     if (type === 'stars') {
-      return `![${project.name}](https://img.shields.io/${project.info.type}/stars/${encodeURIComponent(project.info.user + '/' + project.info.project)}?style=flat&gitlab_url=${url.origin})`
+      return `![${project.name}](https://img.shields.io/${project.info.type}/stars/${encodeURIComponent(`${project.info.user}/${project.info.project}`)}?style=flat&gitlab_url=${url.origin})`
     }
     if (type === 'license') {
-      return `![${project.name}](https://img.shields.io/${project.info.type}/license/${encodeURIComponent(project.info.user + '/' + project.info.project)}?style=flat&gitlab_url=${url.origin})`
+      return `![${project.name}](https://img.shields.io/${project.info.type}/license/${encodeURIComponent(`${project.info.user}/${project.info.project}`)}?style=flat&gitlab_url=${url.origin})`
     }
     if (type === 'language') {
-      return `![${project.name}](https://img.shields.io/${project.info.type}/languages/count/${encodeURIComponent(project.info.user + '/' + project.info.project)}?style=flat&gitlab_url=${url.origin})`
+      return `![${project.name}](https://img.shields.io/${project.info.type}/languages/count/${encodeURIComponent(`${project.info.user}/${project.info.project}`)}?style=flat&gitlab_url=${url.origin})`
     }
-  } else {
+  }
+  else {
     return ''
   }
 }
 
-export function getTitle (project)  {
+export function getTitle(project) {
   return `[${project.name}](${project.url})`
 }

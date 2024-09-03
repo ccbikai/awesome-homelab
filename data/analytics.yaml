@@ -1,32 +1,32 @@
-- name: "Matomo"
-  url: "https://github.com/matomo-org/matomo"
+- name: Matomo
+  url: 'https://github.com/matomo-org/matomo'
 
-- name: "Plausible"
-  url: "https://github.com/plausible/analytics"
+- name: Plausible
+  url: 'https://github.com/plausible/analytics'
 
-- name: "Ackee"
-  url: "https://github.com/electerious/Ackee"
+- name: Ackee
+  url: 'https://github.com/electerious/Ackee'
 
-- name: "Umami"
-  url: "https://github.com/umami-software/umami"
+- name: Umami
+  url: 'https://github.com/umami-software/umami'
 
-- name: "GoAccess"
-  url: "https://github.com/allinurl/goaccess"
+- name: GoAccess
+  url: 'https://github.com/allinurl/goaccess'
 
-- name: "Pirsch"
-  url: "https://github.com/pirsch-analytics/pirsch"
+- name: Pirsch
+  url: 'https://github.com/pirsch-analytics/pirsch'
 
-- name: "Fathom"
-  url: "https://github.com/usefathom/fathom"
+- name: Fathom
+  url: 'https://github.com/usefathom/fathom'
 
-- name: "PostHog"
-  url: "https://github.com/PostHog/posthog"
+- name: PostHog
+  url: 'https://github.com/PostHog/posthog'
 
-- name: "Openpanel"
-  url: "https://github.com/Openpanel-dev/openpanel"
+- name: Openpanel
+  url: 'https://github.com/Openpanel-dev/openpanel'
 
-- name: "Medama"
-  url: "https://github.com/medama-io/medama"
+- name: Medama
+  url: 'https://github.com/medama-io/medama'
 
 - name: Metabase
   url: https://github.com/metabase/metabase

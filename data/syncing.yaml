@@ -1,8 +1,8 @@
-- name: "Baikal"
-  url: "https://github.com/ckulka/baikal-docker"
+- name: Baikal
+  url: 'https://github.com/ckulka/baikal-docker'
 
-- name: "Syncthing"
-  url: "https://github.com/syncthing/syncthing"
+- name: Syncthing
+  url: 'https://github.com/syncthing/syncthing'
 
-- name: "Radicale"
-  url: "https://github.com/Kozea/Radicale"
+- name: Radicale
+  url: 'https://github.com/Kozea/Radicale'

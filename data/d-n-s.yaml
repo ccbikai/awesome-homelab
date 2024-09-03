@@ -1,6 +1,5 @@
-- name: "Pi-hole"
-  url: "https://github.com/pi-hole/pi-hole"
+- name: Pi-hole
+  url: 'https://github.com/pi-hole/pi-hole'
 
-- name: "AdGuard Home"
-  url: "https://github.com/AdguardTeam/AdGuardHome"
-
+- name: AdGuard Home
+  url: 'https://github.com/AdguardTeam/AdGuardHome'

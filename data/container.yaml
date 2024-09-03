@@ -1,20 +1,20 @@
-- name: "Portainer"
-  url: "https://github.com/portainer/portainer"
+- name: Portainer
+  url: 'https://github.com/portainer/portainer'
 
-- name: "Rancher"
-  url: "https://github.com/rancher/rancher"
+- name: Rancher
+  url: 'https://github.com/rancher/rancher'
 
-- name: "Nomad"
-  url: "https://github.com/hashicorp/nomad"
+- name: Nomad
+  url: 'https://github.com/hashicorp/nomad'
 
-- name: "Dockge"
-  url: "https://github.com/louislam/dockge"
+- name: Dockge
+  url: 'https://github.com/louislam/dockge'
 
-- name: "Dozzle"
-  url: "https://github.com/amir20/dozzle"
+- name: Dozzle
+  url: 'https://github.com/amir20/dozzle'
 
-- name: "Windows"
-  url: "https://github.com/dockur/windows"
+- name: Windows
+  url: 'https://github.com/dockur/windows'
 
-- name: "Yacht"
-  url: "https://github.com/SelfhostedPro/Yacht"
+- name: Yacht
+  url: 'https://github.com/SelfhostedPro/Yacht'

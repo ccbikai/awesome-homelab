@@ -1,50 +1,50 @@
-- name: "Ollama"
-  url: "https://github.com/ollama/ollama"
+- name: Ollama
+  url: 'https://github.com/ollama/ollama'
 
-- name: "LocalAI"
-  url: "https://github.com/mudler/LocalAI"
+- name: LocalAI
+  url: 'https://github.com/mudler/LocalAI'
 
-- name: "Xinference"
-  url: "https://github.com/xorbitsai/inference"
+- name: Xinference
+  url: 'https://github.com/xorbitsai/inference'
 
-- name: "OpenLLM"
-  url: "https://github.com/bentoml/OpenLLM"
+- name: OpenLLM
+  url: 'https://github.com/bentoml/OpenLLM'
 
-- name: "Anse"
-  url: "https://github.com/anse-app/anse"
+- name: Anse
+  url: 'https://github.com/anse-app/anse'
 
-- name: "ChatGPT UI"
-  url: "https://github.com/WongSaang/chatgpt-ui"
+- name: ChatGPT UI
+  url: 'https://github.com/WongSaang/chatgpt-ui'
 
-- name: "Chatpad AI"
-  url: "https://github.com/deiucanta/chatpad"
+- name: Chatpad AI
+  url: 'https://github.com/deiucanta/chatpad'
 
-- name: "Cheshire-Cat"
-  url: "https://github.com/cheshire-cat-ai/core"
+- name: Cheshire-Cat
+  url: 'https://github.com/cheshire-cat-ai/core'
 
-- name: "Flowise"
-  url: "https://github.com/FlowiseAI/Flowise"
+- name: Flowise
+  url: 'https://github.com/FlowiseAI/Flowise'
 
-- name: "Lobe Chat"
-  url: "https://github.com/lobehub/lobe-chat"
+- name: Lobe Chat
+  url: 'https://github.com/lobehub/lobe-chat'
 
-- name: "Open WebUI"
-  url: "https://github.com/open-webui/open-webui"
+- name: Open WebUI
+  url: 'https://github.com/open-webui/open-webui'
 
-- name: "Serge"
-  url: "https://github.com/serge-chat/serge"
+- name: Serge
+  url: 'https://github.com/serge-chat/serge'
 
-- name: "LlamaGPT"
-  url: "https://github.com/getumbrel/llama-gpt"
+- name: LlamaGPT
+  url: 'https://github.com/getumbrel/llama-gpt'
 
-- name: "ComfyUI"
-  url: "https://github.com/comfyanonymous/ComfyUI"
+- name: ComfyUI
+  url: 'https://github.com/comfyanonymous/ComfyUI'
 
-- name: "Dify"
-  url: "https://github.com/langgenius/dify"
+- name: Dify
+  url: 'https://github.com/langgenius/dify'
 
-- name: "GaiaNet"
-  url: "https://github.com/GaiaNet-AI/gaianet-node"
+- name: GaiaNet
+  url: 'https://github.com/GaiaNet-AI/gaianet-node'
 
-- name: "Perplexica"
-  url: "https://github.com/ItzCrazyKns/Perplexica"
+- name: Perplexica
+  url: 'https://github.com/ItzCrazyKns/Perplexica'
