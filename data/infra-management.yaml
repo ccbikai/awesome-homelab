@@ -33,3 +33,6 @@
 
 - name: Traefik
   url: https://github.com/traefik/traefik
+
+- name: Nginx Proxy Manager
+  url: https://github.com/NginxProxyManager/nginx-proxy-manager

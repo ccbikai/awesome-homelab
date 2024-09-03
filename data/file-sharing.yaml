@@ -63,3 +63,6 @@
 
 - name: LiveSync
   url: 'https://github.com/vrtmrz/obsidian-livesync'
+
+- name: transfer.sh
+  url: https://github.com/dutchcoders/transfer.sh

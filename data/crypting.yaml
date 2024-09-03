@@ -3,3 +3,6 @@
 
 - name: OctoBot
   url: 'https://github.com/Drakkar-Software/OctoBot'
+
+- name: ZeroNet
+  url: https://github.com/HelloZeroNet/ZeroNet

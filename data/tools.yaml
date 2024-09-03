@@ -75,3 +75,12 @@
 
 - name: Postwoman
   url: https://github.com/hoppscotch/hoppscotch
+
+- name: ToolJet
+  url: https://github.com/ToolJet/ToolJet
+
+- name: CyberChef
+  url: https://github.com/gchq/CyberChef
+
+- name: Habitica
+  url: https://github.com/HabitRPG/habitica

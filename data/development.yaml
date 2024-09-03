@@ -66,3 +66,18 @@
 
 - name: Hasura
   url: https://github.com/hasura/graphql-engine
+
+- name: OpenFaaS
+  url: https://github.com/openfaas/faas
+
+- name: Wekan
+  url: https://github.com/wekan/wekan
+
+- name: Deeplearning4J
+  url: https://github.com/deeplearning4j/deeplearning4j
+
+- name: Druid
+  url: https://github.com/apache/druid
+
+- name: Typesense
+  url: https://github.com/typesense/typesense

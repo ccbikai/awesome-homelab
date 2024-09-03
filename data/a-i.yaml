@@ -48,3 +48,12 @@
 
 - name: Perplexica
   url: 'https://github.com/ItzCrazyKns/Perplexica'
+
+- name: MindsDB
+  url: https://github.com/mindsdb/mindsdb
+
+- name: JupyterLab
+  url: https://github.com/jupyterlab/jupyterlab
+
+- name: Leon
+  url: https://github.com/leon-ai/leon

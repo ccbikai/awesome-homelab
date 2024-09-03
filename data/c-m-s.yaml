@@ -1,2 +1,14 @@
 - name: Strapi
   url: https://github.com/strapi/strapi
+
+- name: Directus
+  url: https://github.com/directus/directus
+
+- name: Wagtail
+  url: https://github.com/wagtail/wagtail
+
+- name: Grav
+  url: https://github.com/getgrav/grav
+
+- name: django CMS
+  url: https://github.com/django-cms/django-cms

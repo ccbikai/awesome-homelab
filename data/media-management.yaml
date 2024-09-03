@@ -78,3 +78,12 @@
 
 - name: SickChill
   url: 'https://github.com/SickChill/SickChill'
+
+- name: Kodi Home Theater Software
+  url: https://github.com/xbmc/xbmc
+
+- name: koel
+  url: https://github.com/koel/koel
+
+- name: Beets
+  url: https://github.com/beetbox/beets

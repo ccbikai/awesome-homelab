@@ -12,3 +12,9 @@
 
 - name: SWAG
   url: 'https://github.com/linuxserver/docker-swag'
+
+- name: Keycloak
+  url: https://github.com/keycloak/keycloak
+
+- name: Personal Security Checklist
+  url: https://github.com/Lissy93/personal-security-checklist

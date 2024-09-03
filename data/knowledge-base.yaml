@@ -54,3 +54,12 @@
 
 - name: HedgeDoc
   url: 'https://github.com/hedgedoc/hedgedoc'
+
+- name: Wiki.js
+  url: https://github.com/requarks/wiki
+
+- name: Focalboard
+  url: https://github.com/mattermost-community/focalboard
+
+- name: Gollum
+  url: https://github.com/gollum/gollum

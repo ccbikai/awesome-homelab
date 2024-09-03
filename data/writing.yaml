@@ -33,3 +33,18 @@
 
 - name: Novel
   url: 'https://github.com/steven-tey/novel'
+
+- name: Etherpad
+  url: https://github.com/ether/etherpad-lite
+
+- name: mdBook
+  url: https://github.com/rust-lang/mdBook
+
+- name: Boostnote
+  url: https://github.com/BoostIO/BoostNote-Legacy
+
+- name: Leanote
+  url: https://github.com/leanote/leanote
+
+- name: ShareLaTex
+  url: https://github.com/overleaf/overleaf

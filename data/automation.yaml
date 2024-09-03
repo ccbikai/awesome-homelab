@@ -3,3 +3,6 @@
 
 - name: Huginn
   url: https://github.com/huginn/huginn
+
+- name: Mindustry
+  url: https://github.com/Anuken/Mindustry

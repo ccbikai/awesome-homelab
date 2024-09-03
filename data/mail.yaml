@@ -6,3 +6,12 @@
 
 - name: listmonk
   url: 'https://github.com/knadh/listmonk'
+
+- name: Mail-in-a-Box
+  url: https://github.com/mail-in-a-box/mailinabox
+
+- name: Listmonk
+  url: https://github.com/knadh/listmonk
+
+- name: Postal
+  url: https://github.com/postalserver/postal

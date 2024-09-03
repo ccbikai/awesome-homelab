@@ -1,0 +1,8 @@
+- name: ERPNext
+  url: https://github.com/frappe/erpnext
+
+- name: Monica
+  url: https://github.com/monicahq/monica
+
+- name: snipe-it
+  url: https://github.com/snipe/snipe-it

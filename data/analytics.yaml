@@ -30,3 +30,9 @@
 
 - name: Metabase
   url: https://github.com/metabase/metabase
+
+- name: Redash
+  url: https://github.com/getredash/redash
+
+- name: cube.js
+  url: https://github.com/cube-js/cube

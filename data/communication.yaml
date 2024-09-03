@@ -30,3 +30,12 @@
 
 - name: Discourse
   url: https://github.com/discourse/discourse
+
+- name: Chatwoot
+  url: https://github.com/chatwoot/chatwoot
+
+- name: NodeBB
+  url: https://github.com/NodeBB/NodeBB
+
+- name: Flarum
+  url: https://github.com/flarum/flarum

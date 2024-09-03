@@ -30,3 +30,6 @@
 
 - name: Doku
   url: 'https://github.com/amerkurev/doku'
+
+- name: Cachet
+  url: https://github.com/cachethq/cachet
