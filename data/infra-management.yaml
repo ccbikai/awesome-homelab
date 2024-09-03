@@ -30,3 +30,6 @@
 
 - name: "Terminus"
   url: "https://github.com/beclab/Terminus"
+
+- name: Traefik
+  url: https://github.com/traefik/traefik

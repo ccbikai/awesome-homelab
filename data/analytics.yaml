@@ -27,3 +27,6 @@
 
 - name: "Medama"
   url: "https://github.com/medama-io/medama"
+
+- name: Metabase
+  url: https://github.com/metabase/metabase

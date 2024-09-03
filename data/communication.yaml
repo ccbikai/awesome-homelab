@@ -27,3 +27,6 @@
 
 - name: "Revolt"
   url: "https://github.com/revoltchat/revolt"
+
+- name: Discourse
+  url: https://github.com/discourse/discourse

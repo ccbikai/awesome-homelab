@@ -42,3 +42,27 @@
 
 - name: "Bytebase"
   url: "https://github.com/bytebase/bytebase"
+
+- name: Elasticsearch
+  url: https://github.com/elastic/elasticsearch
+
+- name: LocalStack
+  url: https://github.com/localstack/localstack
+
+- name: Gogs
+  url: https://github.com/gogs/gogs
+
+- name: Appwrite
+  url: https://github.com/appwrite/appwrite
+- name: Kong
+  url: https://github.com/Kong/kong
+- name: MeiliSearch
+  url: https://github.com/meilisearch/meilisearch
+
+- name: Sentry
+  url: https://github.com/getsentry/sentry
+- name: Mattermost
+  url: https://github.com/mattermost/mattermost
+
+- name: Hasura
+  url: https://github.com/hasura/graphql-engine

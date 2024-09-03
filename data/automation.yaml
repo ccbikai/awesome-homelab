@@ -1,2 +1,5 @@
 - name: "Activepieces"
   url: "https://github.com/activepieces/activepieces"
+
+- name: Huginn
+  url: https://github.com/huginn/huginn
