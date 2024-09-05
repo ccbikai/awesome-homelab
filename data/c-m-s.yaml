@@ -12,3 +12,18 @@
 
 - name: django CMS
   url: https://github.com/django-cms/django-cms
+
+- name: october
+  url: https://github.com/octobercms/october
+
+- name: Joomla!
+  url: https://github.com/joomla/joomla-cms
+
+- name: KeystoneJS
+  url: https://github.com/keystonejs/keystone
+
+- name: Umbraco
+  url: https://github.com/umbraco/Umbraco-CMS
+
+- name: Drupal
+  url: https://github.com/drupal/drupal

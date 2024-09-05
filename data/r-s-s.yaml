@@ -18,3 +18,9 @@
 
 - name: Fusion
   url: 'https://github.com/0x2E/fusion'
+
+- name: RSS-Bridge
+  url: https://github.com/RSS-Bridge/rss-bridge
+
+- name: NewsBlur
+  url: https://github.com/samuelclay/NewsBlur

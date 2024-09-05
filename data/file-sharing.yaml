@@ -66,3 +66,15 @@
 
 - name: transfer.sh
   url: https://github.com/dutchcoders/transfer.sh
+
+- name: Filestash
+  url: https://github.com/mickael-kerjean/filestash
+
+- name: OnionShare
+  url: https://github.com/onionshare/onionshare
+
+- name: h5ai
+  url: https://github.com/lrsjng/h5ai
+
+- name: CryptPad
+  url: https://github.com/cryptpad/cryptpad

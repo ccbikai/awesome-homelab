@@ -36,3 +36,9 @@
 
 - name: Nginx Proxy Manager
   url: https://github.com/NginxProxyManager/nginx-proxy-manager
+
+- name: CapRover
+  url: https://github.com/caprover/caprover
+
+- name: Open and cheap DIY IP-KVM based on Raspberry Pi
+  url: https://github.com/pikvm/pikvm

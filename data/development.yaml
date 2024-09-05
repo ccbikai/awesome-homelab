@@ -54,13 +54,16 @@
 
 - name: Appwrite
   url: https://github.com/appwrite/appwrite
+
 - name: Kong
   url: https://github.com/Kong/kong
+
 - name: MeiliSearch
   url: https://github.com/meilisearch/meilisearch
 
 - name: Sentry
   url: https://github.com/getsentry/sentry
+
 - name: Mattermost
   url: https://github.com/mattermost/mattermost
 
@@ -81,3 +84,36 @@
 
 - name: Typesense
   url: https://github.com/typesense/typesense
+
+- name: OpenProject
+  url: https://github.com/opf/openproject
+
+- name: gitbucket
+  url: https://github.com/gitbucket/gitbucket
+
+- name: Kanboard
+  url: https://github.com/kanboard/kanboard
+
+- name: sovereign
+  url: https://github.com/sovereign/sovereign
+
+- name: Unleash
+  url: https://github.com/Unleash/unleash
+
+- name: Regexr
+  url: https://github.com/gskinner/regexr
+
+- name: API Platform
+  url: https://github.com/api-platform/api-platform
+
+- name: Coder
+  url: https://github.com/coder/coder
+
+- name: CKAN
+  url: https://github.com/ckan/ckan
+
+- name: KrakenD
+  url: https://github.com/luraproject/lura
+
+- name: JS Bin
+  url: https://github.com/jsbin/jsbin

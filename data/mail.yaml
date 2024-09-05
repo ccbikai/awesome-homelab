@@ -15,3 +15,24 @@
 
 - name: Postal
   url: https://github.com/postalserver/postal
+
+- name: MailHog
+  url: https://github.com/mailhog/MailHog
+
+- name: Mailpile
+  url: https://github.com/mailpile/Mailpile
+
+- name: Roundcube
+  url: https://github.com/roundcube/roundcubemail
+
+- name: MailCatcher
+  url: https://github.com/sj26/mailcatcher
+
+- name: Mailu
+  url: https://github.com/Mailu/Mailu
+
+- name: Tutanota makes encryption easy
+  url: https://github.com/tutao/tutanota
+
+- name: Mailtrain
+  url: https://github.com/Mailtrain-org/mailtrain

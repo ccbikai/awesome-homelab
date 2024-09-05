@@ -24,3 +24,6 @@
 
 - name: Thingsboard
   url: https://github.com/thingsboard/thingsboard
+
+- name: Freeboard
+  url: https://github.com/Freeboard/freeboard

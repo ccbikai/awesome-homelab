@@ -21,3 +21,6 @@
 
 - name: NextGBA
   url: 'https://github.com/meienberger/nextgba'
+
+- name: The Battle for Wesnoth
+  url: https://github.com/wesnoth/wesnoth

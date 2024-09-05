@@ -3,3 +3,6 @@
 
 - name: AdGuard Home
   url: 'https://github.com/AdguardTeam/AdGuardHome'
+
+- name: CoreDNS
+  url: https://github.com/coredns/coredns

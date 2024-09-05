@@ -36,3 +36,6 @@
 
 - name: cube.js
   url: https://github.com/cube-js/cube
+
+- name: Countly
+  url: https://github.com/Countly/countly-server

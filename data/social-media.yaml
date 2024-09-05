@@ -27,3 +27,6 @@
 
 - name: HumHub
   url: 'https://github.com/humhub/humhub'
+
+- name: Misskey
+  url: https://github.com/misskey-dev/misskey

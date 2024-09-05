@@ -84,3 +84,39 @@
 
 - name: Habitica
   url: https://github.com/HabitRPG/habitica
+
+- name: YOURLS
+  url: https://github.com/YOURLS/YOURLS
+
+- name: ActivityWatch
+  url: https://github.com/ActivityWatch/activitywatch
+
+- name: Gotify
+  url: https://github.com/gotify/server
+
+- name: Shiori
+  url: https://github.com/go-shiori/shiori
+
+- name: Centrifugo
+  url: https://github.com/centrifugal/centrifugo
+
+- name: OS.js
+  url: https://github.com/os-js/OS.js
+
+- name: GateOne
+  url: https://github.com/liftoff/GateOne
+
+- name: Grist
+  url: https://github.com/gristlabs/grist-core
+
+- name: Snapcast
+  url: https://github.com/badaix/snapcast
+
+- name: ONLYOFFICE
+  url: https://github.com/ONLYOFFICE/DocumentServer
+
+- name: Polr
+  url: https://github.com/cydrobolt/polr
+
+- name: osTicket
+  url: https://github.com/osTicket/osTicket

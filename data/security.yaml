@@ -18,3 +18,15 @@
 
 - name: Personal Security Checklist
   url: https://github.com/Lissy93/personal-security-checklist
+
+- name: KeeWeb
+  url: https://github.com/keeweb/keeweb
+
+- name: Vuls
+  url: https://github.com/future-architect/vuls
+
+- name: Wazuh
+  url: https://github.com/wazuh/wazuh
+
+- name: OpenCTI
+  url: https://github.com/OpenCTI-Platform/opencti

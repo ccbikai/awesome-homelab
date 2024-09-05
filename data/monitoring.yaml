@@ -33,3 +33,12 @@
 
 - name: Cachet
   url: https://github.com/cachethq/cachet
+
+- name: Healthchecks
+  url: https://github.com/healthchecks/healthchecks
+
+- name: LibreNMS
+  url: https://github.com/librenms/librenms
+
+- name: HertzBeat
+  url: https://github.com/apache/hertzbeat

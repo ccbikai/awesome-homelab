@@ -30,3 +30,9 @@
 
 - name: pinchflat
   url: 'https://github.com/kieraneglin/pinchflat'
+
+- name: WebUI-aria2
+  url: https://github.com/ziahamza/webui-aria2
+
+- name: cloud-torrent
+  url: https://github.com/jpillora/cloud-torrent

@@ -48,3 +48,18 @@
 
 - name: ShareLaTex
   url: https://github.com/overleaf/overleaf
+
+- name: Pelican
+  url: https://github.com/getpelican/pelican
+
+- name: HackMD
+  url: https://github.com/hackmdio/codimd
+
+- name: dillinger
+  url: https://github.com/joemccann/dillinger
+
+- name: Publify
+  url: https://github.com/publify/publify
+
+- name: Metalsmith
+  url: https://github.com/metalsmith/metalsmith

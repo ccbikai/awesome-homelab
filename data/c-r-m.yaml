@@ -6,3 +6,15 @@
 
 - name: snipe-it
   url: https://github.com/snipe/snipe-it
+
+- name: DOLIBARR ERP & CRM
+  url: https://github.com/Dolibarr/dolibarr
+
+- name: SuiteCRM
+  url: https://github.com/salesagility/SuiteCRM
+
+- name: Open Source POS
+  url: https://github.com/opensourcepos/opensourcepos
+
+- name: grocy
+  url: https://github.com/grocy/grocy

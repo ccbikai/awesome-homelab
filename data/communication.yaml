@@ -39,3 +39,27 @@
 
 - name: Flarum
   url: https://github.com/flarum/flarum
+
+- name: Tinode
+  url: https://github.com/tinode/chat
+
+- name: Lemmy
+  url: https://github.com/LemmyNet/lemmy
+
+- name: Apache Answer
+  url: https://github.com/apache/incubator-answer
+
+- name: Lets-Chat
+  url: https://github.com/sdelements/lets-chat
+
+- name: Tox
+  url: https://github.com/irungentoo/toxcore
+
+- name: Berty
+  url: https://github.com/berty/berty
+
+- name: The Lounge
+  url: https://github.com/thelounge/thelounge
+
+- name: Papercups
+  url: https://github.com/papercups-io/papercups

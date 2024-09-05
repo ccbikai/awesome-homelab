@@ -87,3 +87,9 @@
 
 - name: Beets
   url: https://github.com/beetbox/beets
+
+- name: Streama
+  url: https://github.com/streamaserver/streama
+
+- name: Owncast
+  url: https://github.com/owncast/owncast

@@ -6,3 +6,9 @@
 
 - name: Mindustry
   url: https://github.com/Anuken/Mindustry
+
+- name: StackStorm
+  url: https://github.com/StackStorm/st2
+
+- name: Beehive
+  url: https://github.com/muesli/beehive

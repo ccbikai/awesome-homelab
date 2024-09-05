@@ -1,0 +1,866 @@
+- name: bunkerized-nginx
+  url: https://github.com/bunkerity/bunkerweb
+
+- name: Attendize
+  url: https://github.com/Attendize/Attendize
+
+- name: Open Event Server
+  url: https://github.com/fossasia/open-event-server
+
+- name: Cockpit
+  url: https://github.com/agentejo/cockpit
+
+- name: MeTube
+  url: https://github.com/alexta69/metube
+
+- name: Refinery CMS
+  url: https://github.com/refinery/refinerycms
+
+- name: Haraka
+  url: https://github.com/haraka/Haraka
+
+- name: Weblate
+  url: https://github.com/WeblateOrg/weblate
+
+- name: Pimcore
+  url: https://github.com/pimcore/pimcore
+
+- name: SparkleShare
+  url: https://github.com/hbons/SparkleShare
+
+- name: Errbit
+  url: https://github.com/errbit/errbit
+
+- name: Sick Beard
+  url: https://github.com/midgetspy/Sick-Beard
+
+- name: tmate
+  url: https://github.com/tmate-io/tmate
+
+- name: untrusted
+  url: https://github.com/AlexNisnevich/untrusted
+
+- name: Tinyproxy
+  url: https://github.com/tinyproxy/tinyproxy
+
+- name: Dokuwiki
+  url: https://github.com/dokuwiki/dokuwiki
+
+- name: RainLoop
+  url: https://github.com/RainLoop/rainloop-webmail
+
+- name: Openfire
+  url: https://github.com/igniterealtime/Openfire
+
+- name: Bolt
+  url: https://github.com/bolt/bolt
+
+- name: DietPi
+  url: https://github.com/MichaIng/DietPi
+
+- name: Isso
+  url: https://github.com/isso-comments/isso
+
+- name: Zammad
+  url: https://github.com/zammad/zammad
+
+- name: Easy!Appointments
+  url: https://github.com/alextselegidis/easyappointments
+
+- name: daux.io
+  url: https://github.com/justinwalsh/daux.io
+
+- name: Erxes
+  url: https://github.com/erxes/erxes
+
+- name: Harp
+  url: https://github.com/sintaxi/harp
+
+- name: SimpleLogin
+  url: https://github.com/simple-login/app
+
+- name: Organizr
+  url: https://github.com/causefx/Organizr
+
+- name: Velox
+  url: https://github.com/facebookincubator/velox
+
+- name: ProtonMail Web Client
+  url: https://github.com/ProtonMail/WebClients
+
+- name: Apostrophe 2
+  url: https://github.com/apostrophecms/apostrophe
+
+- name: Strider
+  url: https://github.com/Strider-CD/strider
+
+- name: Lobsters
+  url: https://github.com/lobsters/lobsters
+
+- name: remark42
+  url: https://github.com/umputun/remark42
+
+- name: Leantime
+  url: https://github.com/Leantime/leantime
+
+- name: Swift
+  url: https://github.com/openstack/swift
+
+- name: Vesta Control Panel
+  url: https://github.com/outroll/vesta
+
+- name: Pico
+  url: https://github.com/picocms/Pico
+
+- name: asciiflow
+  url: https://github.com/lewish/asciiflow
+
+- name: Flagsmith
+  url: https://github.com/Flagsmith/flagsmith
+
+- name: innernet
+  url: https://github.com/tonarino/innernet
+
+- name: Sharetribe
+  url: https://github.com/sharetribe/sharetribe
+
+- name: Kinto
+  url: https://github.com/Kinto/kinto
+
+- name: Orchard
+  url: https://github.com/OrchardCMS/Orchard
+
+- name: Jitsi Video Bridge
+  url: https://github.com/jitsi/jitsi-videobridge
+
+- name: Automatisch
+  url: https://github.com/automatisch/automatisch
+
+- name: Microweber
+  url: https://github.com/microweber/microweber
+
+- name: Octobox
+  url: https://github.com/octobox/octobox
+
+- name: ThinkUp
+  url: https://github.com/ThinkUpLLC/ThinkUp
+
+- name: FilePizza
+  url: https://github.com/kern/filepizza
+
+- name: Motion
+  url: https://github.com/Motion-Project/motion
+
+- name: Ampache
+  url: https://github.com/ampache/ampache
+
+- name: Expose
+  url: https://github.com/Jack000/Expose
+
+- name: Headphones
+  url: https://github.com/rembo10/headphones
+
+- name: Redbird
+  url: https://github.com/OptimalBits/redbird
+
+- name: WriteFreely
+  url: https://github.com/writefreely/writefreely
+
+- name: pyLoad
+  url: https://github.com/pyload/pyload
+
+- name: My Mind
+  url: https://github.com/ondras/my-mind
+
+- name: LimeSurvey
+  url: https://github.com/LimeSurvey/LimeSurvey
+
+- name: blocky
+  url: https://github.com/0xERR0R/blocky
+
+- name: Converse.js
+  url: https://github.com/conversejs/converse.js
+
+- name: TheHive
+  url: https://github.com/TheHive-Project/TheHive
+
+- name: musikcube
+  url: https://github.com/clangen/musikcube
+
+- name: hastebin
+  url: https://github.com/toptal/haste-server
+
+- name: Restreamer
+  url: https://github.com/datarhei/restreamer
+
+- name: RudderStack
+  url: https://github.com/rudderlabs/rudder-server
+
+- name: Woodpecker
+  url: https://github.com/woodpecker-ci/woodpecker
+
+- name: GoatCounter
+  url: https://github.com/arp242/goatcounter
+
+- name: Vanilla Forums
+  url: https://github.com/vanilla/vanilla
+
+- name: Shoop
+  url: https://github.com/shuup/shuup
+
+- name: Nominatim
+  url: https://github.com/osm-search/Nominatim
+
+- name: TagSpaces
+  url: https://github.com/tagspaces/tagspaces
+
+- name: Bootcamp
+  url: https://github.com/vitorfs/bootcamp
+
+- name: sish
+  url: https://github.com/antoniomika/sish
+
+- name: Pomerium
+  url: https://github.com/pomerium/pomerium
+
+- name: Lektor
+  url: https://github.com/lektor/lektor
+
+- name: Kamailio
+  url: https://github.com/kamailio/kamailio
+
+- name: OpenTripPlanner
+  url: https://github.com/opentripplanner/OpenTripPlanner
+
+- name: FreeRADIUS
+  url: https://github.com/FreeRADIUS/freeradius-server
+
+- name: CherryTree
+  url: https://github.com/giuspen/cherrytree
+
+- name: instant.io
+  url: https://github.com/webtorrent/instant.io
+
+- name: InvoicePlane
+  url: https://github.com/InvoicePlane/InvoicePlane
+
+- name: Canvas
+  url: https://github.com/austintoddj/canvas
+
+- name: Yacy
+  url: https://github.com/yacy/yacy_search_server
+
+- name: ML-Workspace
+  url: https://github.com/ml-tooling/ml-workspace
+
+- name: Hextris
+  url: https://github.com/Hextris/hextris
+
+- name: AzuraCast
+  url: https://github.com/AzuraCast/AzuraCast
+
+- name: Gitlist
+  url: https://github.com/klaussilveira/gitlist
+
+- name: EtherCalc
+  url: https://github.com/audreyt/ethercalc
+
+- name: Radicale
+  url: https://github.com/Kozea/Radicale
+
+- name: Asterisk
+  url: https://github.com/asterisk/asterisk
+
+- name: wger
+  url: https://github.com/wger-project/wger
+
+- name: Mindmaps
+  url: https://github.com/drichard/mindmaps
+
+- name: TextBelt
+  url: https://github.com/typpo/textbelt
+
+- name: Feedbin
+  url: https://github.com/feedbin/feedbin
+
+- name: Openstreetmap
+  url: https://github.com/openstreetmap/openstreetmap-website
+
+- name: WikiSuite
+  url: https://github.com/kimchi-project/kimchi
+
+- name: Ansible-NAS
+  url: https://github.com/davestephens/ansible-nas
+
+- name: Piwigo
+  url: https://github.com/Piwigo/Piwigo
+
+- name: Shaarli
+  url: https://github.com/shaarli/Shaarli
+
+- name: flaskbb
+  url: https://github.com/flaskbb/flaskbb
+
+- name: YouPHPTube
+  url: https://github.com/WWBN/AVideo
+
+- name: Fider
+  url: https://github.com/getfider/fider
+
+- name: Pinry
+  url: https://github.com/pinry/pinry
+
+- name: Gitblit
+  url: https://github.com/gitblit-org/gitblit
+
+- name: Modoboa
+  url: https://github.com/modoboa/modoboa
+
+- name: myDrive
+  url: https://github.com/subnub/myDrive
+
+- name: phpBB
+  url: https://github.com/phpbb/phpbb
+
+- name: Loomio
+  url: https://github.com/loomio/loomio
+
+- name: IronFunctions
+  url: https://github.com/iron-io/functions
+
+- name: FreeScout
+  url: https://github.com/freescout-help-desk/freescout
+
+- name: Raneto
+  url: https://github.com/ryanlelek/Raneto
+
+- name: Kandan
+  url: https://github.com/kandanapp/kandan
+
+- name: Teeworlds
+  url: https://github.com/teeworlds/teeworlds
+
+- name: Live Helper Chat
+  url: https://github.com/LiveHelperChat/livehelperchat
+
+- name: Misago
+  url: https://github.com/rafalp/Misago
+
+- name: Weechat
+  url: https://github.com/weechat/weechat
+
+- name: MediaCMS
+  url: https://github.com/mediacms-io/mediacms
+
+- name: PHPCI
+  url: https://github.com/dancryer/PHPCI
+
+- name: Nikola
+  url: https://github.com/getnikola/nikola
+
+- name: Open Web Analytics
+  url: https://github.com/Open-Web-Analytics/Open-Web-Analytics
+
+- name: King Phisher
+  url: https://github.com/rsmusllp/king-phisher
+
+- name: AnonAddy
+  url: https://github.com/anonaddy/anonaddy
+
+- name: Personal management system
+  url: https://github.com/Volmarg/personal-management-system
+
+- name: Open source APM and DataDog alternative
+  url: https://github.com/uptrace/uptrace
+
+- name: TileServer GL
+  url: https://github.com/maptiler/tileserver-gl
+
+- name: Mozilla Gateway
+  url: https://github.com/WebThingsIO/gateway
+
+- name: Helpy
+  url: https://github.com/helpyio/helpy
+
+- name: Magnetissimo
+  url: https://github.com/sergiotapia/magnetissimo
+
+- name: OpenSign™
+  url: https://github.com/OpenSignLabs/OpenSign
+
+- name: Actionsflow
+  url: https://github.com/actionsflow/actionsflow
+
+- name: Selenoid
+  url: https://github.com/aerokube/selenoid
+
+- name: Judge0 API
+  url: https://github.com/judge0/judge0
+
+- name: Bonobo Git Server
+  url: https://github.com/jakubgarfield/Bonobo-Git-Server
+
+- name: Squidex
+  url: https://github.com/Squidex/squidex
+
+- name: Baïkal
+  url: https://github.com/sabre-io/Baikal
+
+- name: DirectoryLister
+  url: https://github.com/DirectoryLister/DirectoryLister
+
+- name: MantisBT
+  url: https://github.com/mantisbt/mantisbt
+
+- name: Flatdoc
+  url: https://github.com/rstacruz/flatdoc
+
+- name: SiCKRAGE
+  url: https://github.com/SiCKRAGE/SiCKRAGE
+
+- name: Elgg
+  url: https://github.com/Elgg/Elgg
+
+- name: Gladys
+  url: https://github.com/GladysAssistant/Gladys
+
+- name: Shynet
+  url: https://github.com/milesmcc/shynet
+
+- name: Squid
+  url: https://github.com/squid-cache/squid
+
+- name: Shopware Community Edition
+  url: https://github.com/shopware5/shopware
+
+- name: Selfoss
+  url: https://github.com/fossar/selfoss
+
+- name: NextCloudPi
+  url: https://github.com/nextcloud/nextcloudpi
+
+- name: Pump.io
+  url: https://github.com/pump-io/pump.io
+
+- name: Chartbrew
+  url: https://github.com/chartbrew/chartbrew
+
+- name: cloudtunes
+  url: https://github.com/jkbrzt/cloudtunes
+
+- name: Padloc
+  url: https://github.com/padloc/padloc
+
+- name: django-wiki
+  url: https://github.com/django-wiki/django-wiki
+
+- name: elevatorsaga
+  url: https://github.com/magwo/elevatorsaga
+
+- name: YoutubeDL-Material
+  url: https://github.com/Tzahi12345/YoutubeDL-Material
+
+- name: Restyaboard
+  url: https://github.com/RestyaPlatform/board
+
+- name: Sakai
+  url: https://github.com/sakaiproject/sakai
+
+- name: metasfresh
+  url: https://github.com/metasfresh/metasfresh
+
+- name: CUPS
+  url: https://github.com/apple/cups
+
+- name: EspoCRM
+  url: https://github.com/espocrm/espocrm
+
+- name: Nullboard
+  url: https://github.com/apankrat/nullboard
+
+- name: ZNC
+  url: https://github.com/znc/znc
+
+- name: Dnote
+  url: https://github.com/dnote/dnote
+
+- name: Your Spotify
+  url: https://github.com/Yooooomi/your_spotify
+
+- name: Teampass
+  url: https://github.com/nilsteampassnet/TeamPass
+
+- name: Teedy
+  url: https://github.com/sismics/docs
+
+- name: cState
+  url: https://github.com/cstate/cstate
+
+- name: Gazelle
+  url: https://github.com/WhatCD/Gazelle
+
+- name: FileGator
+  url: https://github.com/filegator/filegator
+
+- name: asciinema
+  url: https://github.com/asciinema/asciinema-server
+
+- name: WBO
+  url: https://github.com/lovasoa/whitebophir
+
+- name: Wakapi
+  url: https://github.com/muety/wakapi
+
+- name: Revive Adserver
+  url: https://github.com/revive-adserver/revive-adserver
+
+- name: Gitit
+  url: https://github.com/jgm/gitit
+
+- name: Gigablast
+  url: https://github.com/gigablast/open-source-search-engine
+
+- name: MongooseIM
+  url: https://github.com/esl/MongooseIM
+
+- name: DockSTARTer
+  url: https://github.com/GhostWriters/DockSTARTer
+
+- name: indico
+  url: https://github.com/indico/indico
+
+- name: NymphCast
+  url: https://github.com/MayaPosch/NymphCast
+
+- name: Coral
+  url: https://github.com/coralproject/talk
+
+- name: Open Food Network
+  url: https://github.com/openfoodfoundation/openfoodnetwork
+
+- name: Oragono
+  url: https://github.com/ergochat/ergo
+
+- name: mStream
+  url: https://github.com/IrosTheBeggar/mStream
+
+- name: MODX
+  url: https://github.com/modxcms/revolution
+
+- name: peerflix-server
+  url: https://github.com/asapach/peerflix-server
+
+- name: Baby Buddy
+  url: https://github.com/babybuddy/babybuddy
+
+- name: TYPO3
+  url: https://github.com/TYPO3/typo3
+
+- name: Sogo
+  url: https://github.com/Alinto/sogo
+
+- name: wildduck
+  url: https://github.com/nodemailer/wildduck
+
+- name: Fava
+  url: https://github.com/beancount/fava
+
+- name: Apaxy
+  url: https://github.com/oupala/apaxy
+
+- name: ShareFest
+  url: https://github.com/Peer5/ShareFest
+
+- name: fx
+  url: https://github.com/metrue/fx
+
+- name: RetroShare
+  url: https://github.com/RetroShare/RetroShare
+
+- name: bittorrent-tracker
+  url: https://github.com/webtorrent/bittorrent-tracker
+
+- name: Plume
+  url: https://github.com/Plume-org/Plume
+
+- name: Traduora
+  url: https://github.com/ever-co/ever-traduora
+
+- name: Medusa
+  url: https://github.com/pymedusa/Medusa
+
+- name: YouTransfer
+  url: https://github.com/YouTransfer/YouTransfer
+
+- name: PartKeepr
+  url: https://github.com/partkeepr/PartKeepr
+
+- name: 1Backend
+  url: https://github.com/1backend/1backend
+
+- name: Fusio
+  url: https://github.com/apioo/fusio
+
+- name: OSSN
+  url: https://github.com/opensource-socialnetwork/opensource-socialnetwork
+
+- name: Homer
+  url: https://github.com/sipcapture/homer
+
+- name: Tracks
+  url: https://github.com/TracksApp/tracks
+
+- name: Movim
+  url: https://github.com/movim/movim
+
+- name: Corteza
+  url: https://github.com/cortezaproject/corteza
+
+- name: PencilBlue
+  url: https://github.com/pencilblue/pencilblue
+
+- name: DreamFactory
+  url: https://github.com/dreamfactorysoftware/dreamfactory
+
+- name: sabre/dav
+  url: https://github.com/sabre-io/dav
+
+- name: HuBoard
+  url: https://github.com/huboard/huboard
+
+- name: Firefox Sync Server
+  url: https://github.com/mozilla-services/syncserver
+
+- name: Groove Basin
+  url: https://github.com/andrewrk/groovebasin
+
+- name: twister
+  url: https://github.com/miguelfreitas/twister-core
+
+- name: Chibisafe
+  url: https://github.com/chibisafe/chibisafe
+
+- name: Candy
+  url: https://github.com/candy-chat/candy
+
+- name: Twake
+  url: https://github.com/linagora/Twake
+
+- name: TaskBoard
+  url: https://github.com/kiswa/TaskBoard
+
+- name: Pootle
+  url: https://github.com/translate/pootle
+
+- name: Volumio
+  url: https://github.com/volumio/Volumio2
+
+- name: Alf.io
+  url: https://github.com/alfio-event/alf.io
+
+- name: Awesome Certificates
+  url: https://github.com/PanXProject/awesome-certificates
+
+- name: PiGallery 2
+  url: https://github.com/bpatrik/pigallery2
+
+- name: OpenNote
+  url: https://github.com/FoxUSA/OpenNote
+
+- name: Photonix
+  url: https://github.com/photonixapp/photonix
+
+- name: COPS
+  url: https://github.com/seblucas/cops
+
+- name: MyBB
+  url: https://github.com/mybb/mybb
+
+- name: unmark
+  url: https://github.com/cdevroe/unmark
+
+- name: ZenTao
+  url: https://github.com/easysoft/zentaopms
+
+- name: CyTube
+  url: https://github.com/calzoneman/sync
+
+- name: Thingspeak
+  url: https://github.com/iobridge/thingspeak
+
+- name: Snibox
+  url: https://github.com/snibox/snibox
+
+- name: Bludit
+  url: https://github.com/bludit/bludit
+
+- name: Thredded
+  url: https://github.com/thredded/thredded
+
+- name: DebOps
+  url: https://github.com/debops/debops
+
+- name: Talkyard
+  url: https://github.com/debiki/talkyard
+
+- name: Socioboard
+  url: https://github.com/socioboard/Socioboard-5.0
+
+- name: Reminiscence
+  url: https://github.com/kanishka-linux/reminiscence
+
+- name: Mango
+  url: https://github.com/getmango/Mango
+
+- name: PsiTransfer
+  url: https://github.com/psi-4ward/psitransfer
+
+- name: JBake
+  url: https://github.com/jbake-org/jbake
+
+- name: Maza ad blocking
+  url: https://github.com/tanrax/maza-ad-blocking
+
+- name: Tahoe-LAFS
+  url: https://github.com/tahoe-lafs/tahoe-lafs
+
+- name: OpenRemote
+  url: https://github.com/openremote/openremote
+
+- name: InspIRCd
+  url: https://github.com/inspircd/inspircd
+
+- name: 0bin
+  url: https://github.com/Tygs/0bin
+
+- name: Camaleon CMS
+  url: https://github.com/owen2345/camaleon-cms
+
+- name: Cortex
+  url: https://github.com/TheHive-Project/Cortex
+
+- name: Spreed
+  url: https://github.com/strukturag/spreed-webrtc
+
+- name: Shinobi
+  url: https://github.com/moeiscool/Shinobi
+
+- name: Plik
+  url: https://github.com/root-gg/plik
+
+- name: fiche
+  url: https://github.com/solusipse/fiche
+
+- name: Podgrab
+  url: https://github.com/akhilrex/podgrab
+
+- name: Routr
+  url: https://github.com/fonoster/routr
+
+- name: Kaiwa
+  url: https://github.com/getkaiwa/kaiwa
+
+- name: gonic
+  url: https://github.com/sentriz/gonic
+
+- name: ytdl-webserver
+  url: https://github.com/Algram/ytdl-webserver
+
+- name: xBrowserSync
+  url: https://github.com/xbrowsersync/app
+
+- name: Flox
+  url: https://github.com/devfake/flox
+
+- name: IHateMoney
+  url: https://github.com/spiral-project/ihatemoney
+
+- name: htmly
+  url: https://github.com/danpros/htmly
+
+- name: GoCrack
+  url: https://github.com/mandiant/gocrack
+
+- name: Mediacrush
+  url: https://github.com/MediaCrush/MediaCrush
+
+- name: EteSync Server
+  url: https://github.com/etesync/server
+
+- name: uMap
+  url: https://github.com/umap-project/umap
+
+- name: minimalist-web-notepad
+  url: https://github.com/pereorga/minimalist-web-notepad
+
+- name: Gerbera
+  url: https://github.com/gerbera/gerbera
+
+- name: Freenet
+  url: https://github.com/hyphanet/fred
+
+- name: Polaris
+  url: https://github.com/agersant/polaris
+
+- name: Tolgee
+  url: https://github.com/tolgee/tolgee-platform
+
+- name: Kirby
+  url: https://github.com/getkirby/kirby
+
+- name: Known
+  url: https://github.com/idno/known
+
+- name: CherryMusic
+  url: https://github.com/devsnd/cherrymusic
+
+- name: Accent
+  url: https://github.com/mirego/accent
+
+- name: inlets
+  url: https://github.com/inlets/inlets-operator
+
+- name: sleek
+  url: https://github.com/ransome1/sleek
+
+- name: Tipboard
+  url: https://github.com/allegro/tipboard
+
+- name: oTranscribe
+  url: https://github.com/oTranscribe/oTranscribe
+
+- name: jingo
+  url: https://github.com/claudioc/jingo
+
+- name: DashMachine
+  url: https://github.com/rmountjoy92/DashMachine
+
+- name: ipfs.pics
+  url: https://github.com/ipfspics/ipfspics-server
+
+- name: Black Candy
+  url: https://github.com/blackcandy-org/blackcandy
+
+- name: µTask
+  url: https://github.com/ovh/utask
+
+- name: PixelCraft
+  url: https://github.com/rgab1508/PixelCraft
+
+- name: homehost
+  url: https://github.com/ridhwaans/homehost
+
+- name: nsupdate.info
+  url: https://github.com/nsupdate-info/nsupdate.info
+
+- name: Writing
+  url: https://github.com/josephernest/writing
+
+- name: LMS
+  url: https://github.com/epoupon/lms
+
+- name: nefarious
+  url: https://github.com/lardbit/nefarious
+
+- name: HRConvert2
+  url: https://github.com/zelon88/HRConvert2
