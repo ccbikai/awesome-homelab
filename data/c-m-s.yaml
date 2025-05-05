@@ -27,3 +27,42 @@
 
 - name: Drupal
   url: https://github.com/drupal/drupal
+
+- name: Refinery CMS
+  url: https://github.com/refinery/refinerycms
+
+- name: Pimcore
+  url: https://github.com/pimcore/pimcore
+
+- name: Bolt
+  url: https://github.com/bolt/bolt
+
+- name: Orchard
+  url: https://github.com/OrchardCMS/Orchard
+
+- name: Microweber
+  url: https://github.com/microweber/microweber
+
+- name: Shoop
+  url: https://github.com/shuup/shuup
+
+- name: Squidex
+  url: https://github.com/Squidex/squidex
+
+- name: Shopware Community Edition
+  url: https://github.com/shopware5/shopware
+
+- name: MODX
+  url: https://github.com/modxcms/revolution
+
+- name: TYPO3
+  url: https://github.com/TYPO3/typo3
+
+- name: PencilBlue
+  url: https://github.com/pencilblue/pencilblue
+
+- name: Bludit
+  url: https://github.com/bludit/bludit
+
+- name: Camaleon CMS
+  url: https://github.com/owen2345/camaleon-cms

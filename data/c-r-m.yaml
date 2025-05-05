@@ -18,3 +18,27 @@
 
 - name: grocy
   url: https://github.com/grocy/grocy
+
+- name: Open Event Server
+  url: https://github.com/fossasia/open-event-server
+
+- name: Erxes
+  url: https://github.com/erxes/erxes
+
+- name: Leantime
+  url: https://github.com/Leantime/leantime
+
+- name: Sharetribe
+  url: https://github.com/sharetribe/sharetribe
+
+- name: Restyaboard
+  url: https://github.com/RestyaPlatform/board
+
+- name: EspoCRM
+  url: https://github.com/espocrm/espocrm
+
+- name: Corteza
+  url: https://github.com/cortezaproject/corteza
+
+- name: ZenTao
+  url: https://github.com/easysoft/zentaopms

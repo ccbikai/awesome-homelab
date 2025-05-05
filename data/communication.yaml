@@ -63,3 +63,96 @@
 
 - name: Papercups
   url: https://github.com/papercups-io/papercups
+
+- name: tmate
+  url: https://github.com/tmate-io/tmate
+
+- name: Openfire
+  url: https://github.com/igniterealtime/Openfire
+
+- name: Zammad
+  url: https://github.com/zammad/zammad
+
+- name: remark42
+  url: https://github.com/umputun/remark42
+
+- name: Jitsi Video Bridge
+  url: https://github.com/jitsi/jitsi-videobridge
+
+- name: Converse.js
+  url: https://github.com/conversejs/converse.js
+
+- name: Kamailio
+  url: https://github.com/kamailio/kamailio
+
+- name: Asterisk
+  url: https://github.com/asterisk/asterisk
+
+- name: TextBelt
+  url: https://github.com/typpo/textbelt
+
+- name: Fider
+  url: https://github.com/getfider/fider
+
+- name: phpBB
+  url: https://github.com/phpbb/phpbb
+
+- name: Loomio
+  url: https://github.com/loomio/loomio
+
+- name: FreeScout
+  url: https://github.com/freescout-help-desk/freescout
+
+- name: Kandan
+  url: https://github.com/kandanapp/kandan
+
+- name: Live Helper Chat
+  url: https://github.com/LiveHelperChat/livehelperchat
+
+- name: Weechat
+  url: https://github.com/weechat/weechat
+
+- name: Helpy
+  url: https://github.com/helpyio/helpy
+
+- name: ZNC
+  url: https://github.com/znc/znc
+
+- name: WBO
+  url: https://github.com/lovasoa/whitebophir
+
+- name: MongooseIM
+  url: https://github.com/esl/MongooseIM
+
+- name: Oragono
+  url: https://github.com/ergochat/ergo
+
+- name: RetroShare
+  url: https://github.com/RetroShare/RetroShare
+
+- name: Movim
+  url: https://github.com/movim/movim
+
+- name: Candy
+  url: https://github.com/candy-chat/candy
+
+- name: Twake
+  url: https://github.com/linagora/Twake
+
+- name: Talkyard
+  url: https://github.com/debiki/talkyard
+
+- name: InspIRCd
+  url: https://github.com/inspircd/inspircd
+
+- name: Spreed
+  url: https://github.com/strukturag/spreed-webrtc
+
+- name: Routr
+  url: https://github.com/fonoster/routr
+
+- name: Kaiwa
+  url: https://github.com/getkaiwa/kaiwa
+
+- name: Freenet
+  url: https://github.com/hyphanet/fred

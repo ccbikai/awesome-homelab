@@ -6,3 +6,18 @@
 
 - name: Rallly
   url: 'https://github.com/lukevella/rallly'
+
+- name: Easy!Appointments
+  url: https://github.com/alextselegidis/easyappointments
+
+- name: Radicale
+  url: https://github.com/Kozea/Radicale
+
+- name: Baïkal
+  url: https://github.com/sabre-io/Baikal
+
+- name: indico
+  url: https://github.com/indico/indico
+
+- name: sabre/dav
+  url: https://github.com/sabre-io/dav

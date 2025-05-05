@@ -36,3 +36,12 @@
 
 - name: cloud-torrent
   url: https://github.com/jpillora/cloud-torrent
+
+- name: pyLoad
+  url: https://github.com/pyload/pyload
+
+- name: YoutubeDL-Material
+  url: https://github.com/Tzahi12345/YoutubeDL-Material
+
+- name: ytdl-webserver
+  url: https://github.com/Algram/ytdl-webserver

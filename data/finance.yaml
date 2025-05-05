@@ -6,3 +6,12 @@
 
 - name: Wallos
   url: 'https://github.com/ellite/Wallos'
+
+- name: InvoicePlane
+  url: https://github.com/InvoicePlane/InvoicePlane
+
+- name: Fava
+  url: https://github.com/beancount/fava
+
+- name: IHateMoney
+  url: https://github.com/spiral-project/ihatemoney

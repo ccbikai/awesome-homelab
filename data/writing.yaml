@@ -63,3 +63,36 @@
 
 - name: Metalsmith
   url: https://github.com/metalsmith/metalsmith
+
+- name: WriteFreely
+  url: https://github.com/writefreely/writefreely
+
+- name: Canvas
+  url: https://github.com/austintoddj/canvas
+
+- name: OpenSign™
+  url: https://github.com/OpenSignLabs/OpenSign
+
+- name: Dnote
+  url: https://github.com/dnote/dnote
+
+- name: Plume
+  url: https://github.com/Plume-org/Plume
+
+- name: OpenNote
+  url: https://github.com/FoxUSA/OpenNote
+
+- name: htmly
+  url: https://github.com/danpros/htmly
+
+- name: minimalist-web-notepad
+  url: https://github.com/pereorga/minimalist-web-notepad
+
+- name: sleek
+  url: https://github.com/ransome1/sleek
+
+- name: oTranscribe
+  url: https://github.com/oTranscribe/oTranscribe
+
+- name: Writing
+  url: https://github.com/josephernest/writing

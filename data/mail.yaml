@@ -36,3 +36,27 @@
 
 - name: Mailtrain
   url: https://github.com/Mailtrain-org/mailtrain
+
+- name: Haraka
+  url: https://github.com/haraka/Haraka
+
+- name: RainLoop
+  url: https://github.com/RainLoop/rainloop-webmail
+
+- name: SimpleLogin
+  url: https://github.com/simple-login/app
+
+- name: ProtonMail Web Client
+  url: https://github.com/ProtonMail/WebClients
+
+- name: Modoboa
+  url: https://github.com/modoboa/modoboa
+
+- name: AnonAddy
+  url: https://github.com/anonaddy/anonaddy
+
+- name: Sogo
+  url: https://github.com/Alinto/sogo
+
+- name: wildduck
+  url: https://github.com/nodemailer/wildduck

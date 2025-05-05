@@ -12,3 +12,18 @@
 
 - name: Benotes
   url: 'https://github.com/fr0tt/benotes'
+
+- name: Shaarli
+  url: https://github.com/shaarli/Shaarli
+
+- name: Pinry
+  url: https://github.com/pinry/pinry
+
+- name: unmark
+  url: https://github.com/cdevroe/unmark
+
+- name: Reminiscence
+  url: https://github.com/kanishka-linux/reminiscence
+
+- name: DashMachine
+  url: https://github.com/rmountjoy92/DashMachine

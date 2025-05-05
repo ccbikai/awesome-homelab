@@ -27,3 +27,15 @@
 
 - name: Freeboard
   url: https://github.com/Freeboard/freeboard
+
+- name: Mozilla Gateway
+  url: https://github.com/WebThingsIO/gateway
+
+- name: Gladys
+  url: https://github.com/GladysAssistant/Gladys
+
+- name: Thingspeak
+  url: https://github.com/iobridge/thingspeak
+
+- name: OpenRemote
+  url: https://github.com/openremote/openremote

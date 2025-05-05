@@ -42,3 +42,12 @@
 
 - name: Open and cheap DIY IP-KVM based on Raspberry Pi
   url: https://github.com/pikvm/pikvm
+
+- name: WikiSuite
+  url: https://github.com/kimchi-project/kimchi
+
+- name: Ansible-NAS
+  url: https://github.com/davestephens/ansible-nas
+
+- name: DebOps
+  url: https://github.com/debops/debops

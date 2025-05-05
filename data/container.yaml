@@ -18,3 +18,15 @@
 
 - name: Yacht
   url: 'https://github.com/SelfhostedPro/Yacht'
+
+- name: IronFunctions
+  url: https://github.com/iron-io/functions
+
+- name: NextCloudPi
+  url: https://github.com/nextcloud/nextcloudpi
+
+- name: DockSTARTer
+  url: https://github.com/GhostWriters/DockSTARTer
+
+- name: inlets
+  url: https://github.com/inlets/inlets-operator

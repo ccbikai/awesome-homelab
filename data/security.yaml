@@ -30,3 +30,30 @@
 
 - name: OpenCTI
   url: https://github.com/OpenCTI-Platform/opencti
+
+- name: bunkerized-nginx
+  url: https://github.com/bunkerity/bunkerweb
+
+- name: TheHive
+  url: https://github.com/TheHive-Project/TheHive
+
+- name: FreeRADIUS
+  url: https://github.com/FreeRADIUS/freeradius-server
+
+- name: King Phisher
+  url: https://github.com/rsmusllp/king-phisher
+
+- name: Padloc
+  url: https://github.com/padloc/padloc
+
+- name: Teampass
+  url: https://github.com/nilsteampassnet/TeamPass
+
+- name: Maza ad blocking
+  url: https://github.com/tanrax/maza-ad-blocking
+
+- name: Cortex
+  url: https://github.com/TheHive-Project/Cortex
+
+- name: GoCrack
+  url: https://github.com/mandiant/gocrack

@@ -12,3 +12,12 @@
 
 - name: Beehive
   url: https://github.com/muesli/beehive
+
+- name: Automatisch
+  url: https://github.com/automatisch/automatisch
+
+- name: Actionsflow
+  url: https://github.com/actionsflow/actionsflow
+
+- name: µTask
+  url: https://github.com/ovh/utask

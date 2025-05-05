@@ -24,3 +24,9 @@
 
 - name: NewsBlur
   url: https://github.com/samuelclay/NewsBlur
+
+- name: Feedbin
+  url: https://github.com/feedbin/feedbin
+
+- name: Selfoss
+  url: https://github.com/fossar/selfoss

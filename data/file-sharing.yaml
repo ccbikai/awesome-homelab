@@ -78,3 +78,66 @@
 
 - name: CryptPad
   url: https://github.com/cryptpad/cryptpad
+
+- name: SparkleShare
+  url: https://github.com/hbons/SparkleShare
+
+- name: Swift
+  url: https://github.com/openstack/swift
+
+- name: FilePizza
+  url: https://github.com/kern/filepizza
+
+- name: hastebin
+  url: https://github.com/toptal/haste-server
+
+- name: TagSpaces
+  url: https://github.com/tagspaces/tagspaces
+
+- name: instant.io
+  url: https://github.com/webtorrent/instant.io
+
+- name: myDrive
+  url: https://github.com/subnub/myDrive
+
+- name: Magnetissimo
+  url: https://github.com/sergiotapia/magnetissimo
+
+- name: DirectoryLister
+  url: https://github.com/DirectoryLister/DirectoryLister
+
+- name: FileGator
+  url: https://github.com/filegator/filegator
+
+- name: Apaxy
+  url: https://github.com/oupala/apaxy
+
+- name: ShareFest
+  url: https://github.com/Peer5/ShareFest
+
+- name: bittorrent-tracker
+  url: https://github.com/webtorrent/bittorrent-tracker
+
+- name: YouTransfer
+  url: https://github.com/YouTransfer/YouTransfer
+
+- name: Chibisafe
+  url: https://github.com/chibisafe/chibisafe
+
+- name: PsiTransfer
+  url: https://github.com/psi-4ward/psitransfer
+
+- name: Tahoe-LAFS
+  url: https://github.com/tahoe-lafs/tahoe-lafs
+
+- name: Plik
+  url: https://github.com/root-gg/plik
+
+- name: fiche
+  url: https://github.com/solusipse/fiche
+
+- name: ipfs.pics
+  url: https://github.com/ipfspics/ipfspics-server
+
+- name: HRConvert2
+  url: https://github.com/zelon88/HRConvert2

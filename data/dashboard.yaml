@@ -27,3 +27,12 @@
 
 - name: Jump
   url: 'https://github.com/daledavies/jump'
+
+- name: Organizr
+  url: https://github.com/causefx/Organizr
+
+- name: Chartbrew
+  url: https://github.com/chartbrew/chartbrew
+
+- name: Tipboard
+  url: https://github.com/allegro/tipboard

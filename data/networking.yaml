@@ -18,3 +18,18 @@
 
 - name: iodine
   url: https://github.com/yarrick/iodine
+
+- name: Tinyproxy
+  url: https://github.com/tinyproxy/tinyproxy
+
+- name: innernet
+  url: https://github.com/tonarino/innernet
+
+- name: Redbird
+  url: https://github.com/OptimalBits/redbird
+
+- name: sish
+  url: https://github.com/antoniomika/sish
+
+- name: Squid
+  url: https://github.com/squid-cache/squid

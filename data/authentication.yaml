@@ -3,3 +3,6 @@
 
 - name: Logto
   url: 'https://github.com/logto-io/logto'
+
+- name: Pomerium
+  url: https://github.com/pomerium/pomerium

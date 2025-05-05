@@ -117,3 +117,129 @@
 
 - name: JS Bin
   url: https://github.com/jsbin/jsbin
+
+- name: Cockpit
+  url: https://github.com/agentejo/cockpit
+
+- name: Weblate
+  url: https://github.com/WeblateOrg/weblate
+
+- name: Harp
+  url: https://github.com/sintaxi/harp
+
+- name: Velox
+  url: https://github.com/facebookincubator/velox
+
+- name: Apostrophe 2
+  url: https://github.com/apostrophecms/apostrophe
+
+- name: Strider
+  url: https://github.com/Strider-CD/strider
+
+- name: Lobsters
+  url: https://github.com/lobsters/lobsters
+
+- name: Pico
+  url: https://github.com/picocms/Pico
+
+- name: Flagsmith
+  url: https://github.com/Flagsmith/flagsmith
+
+- name: Octobox
+  url: https://github.com/octobox/octobox
+
+- name: Woodpecker
+  url: https://github.com/woodpecker-ci/woodpecker
+
+- name: Nominatim
+  url: https://github.com/osm-search/Nominatim
+
+- name: Lektor
+  url: https://github.com/lektor/lektor
+
+- name: OpenTripPlanner
+  url: https://github.com/opentripplanner/OpenTripPlanner
+
+- name: ML-Workspace
+  url: https://github.com/ml-tooling/ml-workspace
+
+- name: Gitlist
+  url: https://github.com/klaussilveira/gitlist
+
+- name: EtherCalc
+  url: https://github.com/audreyt/ethercalc
+
+- name: Gitblit
+  url: https://github.com/gitblit-org/gitblit
+
+- name: PHPCI
+  url: https://github.com/dancryer/PHPCI
+
+- name: Nikola
+  url: https://github.com/getnikola/nikola
+
+- name: TileServer GL
+  url: https://github.com/maptiler/tileserver-gl
+
+- name: Selenoid
+  url: https://github.com/aerokube/selenoid
+
+- name: Judge0 API
+  url: https://github.com/judge0/judge0
+
+- name: Bonobo Git Server
+  url: https://github.com/jakubgarfield/Bonobo-Git-Server
+
+- name: MantisBT
+  url: https://github.com/mantisbt/mantisbt
+
+- name: Flatdoc
+  url: https://github.com/rstacruz/flatdoc
+
+- name: metasfresh
+  url: https://github.com/metasfresh/metasfresh
+
+- name: Gazelle
+  url: https://github.com/WhatCD/Gazelle
+
+- name: Wakapi
+  url: https://github.com/muety/wakapi
+
+- name: Gigablast
+  url: https://github.com/gigablast/open-source-search-engine
+
+- name: fx
+  url: https://github.com/metrue/fx
+
+- name: Traduora
+  url: https://github.com/ever-co/ever-traduora
+
+- name: Fusio
+  url: https://github.com/apioo/fusio
+
+- name: DreamFactory
+  url: https://github.com/dreamfactorysoftware/dreamfactory
+
+- name: HuBoard
+  url: https://github.com/huboard/huboard
+
+- name: TaskBoard
+  url: https://github.com/kiswa/TaskBoard
+
+- name: Pootle
+  url: https://github.com/translate/pootle
+
+- name: JBake
+  url: https://github.com/jbake-org/jbake
+
+- name: Shinobi
+  url: https://github.com/moeiscool/Shinobi
+
+- name: Tolgee
+  url: https://github.com/tolgee/tolgee-platform
+
+- name: Kirby
+  url: https://github.com/getkirby/kirby
+
+- name: Accent
+  url: https://github.com/mirego/accent

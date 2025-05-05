@@ -3,3 +3,12 @@
 
 - name: Excalidraw
   url: 'https://github.com/excalidraw/excalidraw'
+
+- name: asciiflow
+  url: https://github.com/lewish/asciiflow
+
+- name: My Mind
+  url: https://github.com/ondras/my-mind
+
+- name: Mindmaps
+  url: https://github.com/drichard/mindmaps

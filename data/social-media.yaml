@@ -30,3 +30,48 @@
 
 - name: Misskey
   url: https://github.com/misskey-dev/misskey
+
+- name: Isso
+  url: https://github.com/isso-comments/isso
+
+- name: ThinkUp
+  url: https://github.com/ThinkUpLLC/ThinkUp
+
+- name: Vanilla Forums
+  url: https://github.com/vanilla/vanilla
+
+- name: Bootcamp
+  url: https://github.com/vitorfs/bootcamp
+
+- name: flaskbb
+  url: https://github.com/flaskbb/flaskbb
+
+- name: Misago
+  url: https://github.com/rafalp/Misago
+
+- name: Elgg
+  url: https://github.com/Elgg/Elgg
+
+- name: Pump.io
+  url: https://github.com/pump-io/pump.io
+
+- name: Coral
+  url: https://github.com/coralproject/talk
+
+- name: OSSN
+  url: https://github.com/opensource-socialnetwork/opensource-socialnetwork
+
+- name: twister
+  url: https://github.com/miguelfreitas/twister-core
+
+- name: MyBB
+  url: https://github.com/mybb/mybb
+
+- name: Thredded
+  url: https://github.com/thredded/thredded
+
+- name: Socioboard
+  url: https://github.com/socioboard/Socioboard-5.0
+
+- name: Known
+  url: https://github.com/idno/known

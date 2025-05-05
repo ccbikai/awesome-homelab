@@ -6,3 +6,9 @@
 
 - name: CoreDNS
   url: https://github.com/coredns/coredns
+
+- name: blocky
+  url: https://github.com/0xERR0R/blocky
+
+- name: nsupdate.info
+  url: https://github.com/nsupdate-info/nsupdate.info

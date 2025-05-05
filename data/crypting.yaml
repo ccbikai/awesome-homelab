@@ -6,3 +6,9 @@
 
 - name: ZeroNet
   url: https://github.com/HelloZeroNet/ZeroNet
+
+- name: 0bin
+  url: https://github.com/Tygs/0bin
+
+- name: EteSync Server
+  url: https://github.com/etesync/server

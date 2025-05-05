@@ -72,3 +72,45 @@
 
 - name: TiddlyWiki
   url: https://github.com/TiddlyWiki/TiddlyWiki5
+
+- name: Dokuwiki
+  url: https://github.com/dokuwiki/dokuwiki
+
+- name: daux.io
+  url: https://github.com/justinwalsh/daux.io
+
+- name: CherryTree
+  url: https://github.com/giuspen/cherrytree
+
+- name: Raneto
+  url: https://github.com/ryanlelek/Raneto
+
+- name: Personal management system
+  url: https://github.com/Volmarg/personal-management-system
+
+- name: django-wiki
+  url: https://github.com/django-wiki/django-wiki
+
+- name: Sakai
+  url: https://github.com/sakaiproject/sakai
+
+- name: Teedy
+  url: https://github.com/sismics/docs
+
+- name: Gitit
+  url: https://github.com/jgm/gitit
+
+- name: PartKeepr
+  url: https://github.com/partkeepr/PartKeepr
+
+- name: Tracks
+  url: https://github.com/TracksApp/tracks
+
+- name: Awesome Certificates
+  url: https://github.com/PanXProject/awesome-certificates
+
+- name: Snibox
+  url: https://github.com/snibox/snibox
+
+- name: jingo
+  url: https://github.com/claudioc/jingo

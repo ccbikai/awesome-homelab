@@ -93,3 +93,105 @@
 
 - name: Owncast
   url: https://github.com/owncast/owncast
+
+- name: MeTube
+  url: https://github.com/alexta69/metube
+
+- name: Sick Beard
+  url: https://github.com/midgetspy/Sick-Beard
+
+- name: Ampache
+  url: https://github.com/ampache/ampache
+
+- name: Headphones
+  url: https://github.com/rembo10/headphones
+
+- name: musikcube
+  url: https://github.com/clangen/musikcube
+
+- name: Restreamer
+  url: https://github.com/datarhei/restreamer
+
+- name: AzuraCast
+  url: https://github.com/AzuraCast/AzuraCast
+
+- name: YouPHPTube
+  url: https://github.com/WWBN/AVideo
+
+- name: MediaCMS
+  url: https://github.com/mediacms-io/mediacms
+
+- name: SiCKRAGE
+  url: https://github.com/SiCKRAGE/SiCKRAGE
+
+- name: cloudtunes
+  url: https://github.com/jkbrzt/cloudtunes
+
+- name: Your Spotify
+  url: https://github.com/Yooooomi/your_spotify
+
+- name: asciinema
+  url: https://github.com/asciinema/asciinema-server
+
+- name: Revive Adserver
+  url: https://github.com/revive-adserver/revive-adserver
+
+- name: NymphCast
+  url: https://github.com/MayaPosch/NymphCast
+
+- name: mStream
+  url: https://github.com/IrosTheBeggar/mStream
+
+- name: peerflix-server
+  url: https://github.com/asapach/peerflix-server
+
+- name: Medusa
+  url: https://github.com/pymedusa/Medusa
+
+- name: Groove Basin
+  url: https://github.com/andrewrk/groovebasin
+
+- name: Volumio
+  url: https://github.com/volumio/Volumio2
+
+- name: COPS
+  url: https://github.com/seblucas/cops
+
+- name: CyTube
+  url: https://github.com/calzoneman/sync
+
+- name: Mango
+  url: https://github.com/getmango/Mango
+
+- name: Podgrab
+  url: https://github.com/akhilrex/podgrab
+
+- name: gonic
+  url: https://github.com/sentriz/gonic
+
+- name: Flox
+  url: https://github.com/devfake/flox
+
+- name: Mediacrush
+  url: https://github.com/MediaCrush/MediaCrush
+
+- name: Gerbera
+  url: https://github.com/gerbera/gerbera
+
+- name: Polaris
+  url: https://github.com/agersant/polaris
+
+- name: CherryMusic
+  url: https://github.com/devsnd/cherrymusic
+
+- name: Black Candy
+  url: https://github.com/blackcandy-org/blackcandy
+
+- name: homehost
+  url: https://github.com/ridhwaans/homehost
+
+- name: LMS
+  url: https://github.com/epoupon/lms
+
+- name: nefarious
+  url: https://github.com/lardbit/nefarious

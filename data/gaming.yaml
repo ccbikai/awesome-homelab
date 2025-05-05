@@ -24,3 +24,15 @@
 
 - name: The Battle for Wesnoth
   url: https://github.com/wesnoth/wesnoth
+
+- name: untrusted
+  url: https://github.com/AlexNisnevich/untrusted
+
+- name: Hextris
+  url: https://github.com/Hextris/hextris
+
+- name: Teeworlds
+  url: https://github.com/teeworlds/teeworlds
+
+- name: elevatorsaga
+  url: https://github.com/magwo/elevatorsaga

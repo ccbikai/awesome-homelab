@@ -18,3 +18,15 @@
 
 - name: Lychee
   url: https://github.com/electerious/Lychee
+
+- name: Expose
+  url: https://github.com/Jack000/Expose
+
+- name: Piwigo
+  url: https://github.com/Piwigo/Piwigo
+
+- name: PiGallery 2
+  url: https://github.com/bpatrik/pigallery2
+
+- name: Photonix
+  url: https://github.com/photonixapp/photonix

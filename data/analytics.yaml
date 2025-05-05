@@ -39,3 +39,15 @@
 
 - name: Countly
   url: https://github.com/Countly/countly-server
+
+- name: RudderStack
+  url: https://github.com/rudderlabs/rudder-server
+
+- name: GoatCounter
+  url: https://github.com/arp242/goatcounter
+
+- name: Open Web Analytics
+  url: https://github.com/Open-Web-Analytics/Open-Web-Analytics
+
+- name: Shynet
+  url: https://github.com/milesmcc/shynet

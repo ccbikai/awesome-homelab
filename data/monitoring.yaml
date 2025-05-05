@@ -42,3 +42,18 @@
 
 - name: HertzBeat
   url: https://github.com/apache/hertzbeat
+
+- name: Errbit
+  url: https://github.com/errbit/errbit
+
+- name: Motion
+  url: https://github.com/Motion-Project/motion
+
+- name: Open source APM and DataDog alternative
+  url: https://github.com/uptrace/uptrace
+
+- name: cState
+  url: https://github.com/cstate/cstate
+
+- name: Homer
+  url: https://github.com/sipcapture/homer
