@@ -12,6 +12,13 @@
 
 [Submit App](https://github.com/ccbikai/awesome-homelab/issues/new)
 
+## Sponsors
+
+<a href="https://mkdirs.com/?via=miantiao">
+  <img src="https://mkdirs.com/favicon.ico" width="16" height="16" />
+  <strong>Mkdirs</strong>
+</a>
+
 ## Apps
 
 <!-- Apps -->
