@@ -51,3 +51,6 @@
 
 - name: Shynet
   url: https://github.com/milesmcc/shynet
+
+- name: Rybbit
+  url: https://github.com/rybbit-io/rybbit

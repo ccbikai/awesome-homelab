@@ -57,3 +57,6 @@
 
 - name: Homer
   url: https://github.com/sipcapture/homer
+
+- name: highlight.io
+  url: https://github.com/highlight/highlight
