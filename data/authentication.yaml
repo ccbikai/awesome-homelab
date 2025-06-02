@@ -6,3 +6,6 @@
 
 - name: Pomerium
   url: https://github.com/pomerium/pomerium
+
+- name: Pocket ID
+  url: https://github.com/pocket-id/pocket-id
