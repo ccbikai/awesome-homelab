@@ -15,3 +15,6 @@
 
 - name: IHateMoney
   url: https://github.com/spiral-project/ihatemoney
+
+- name: ezBookkeeping
+  url: https://github.com/mayswind/ezbookkeeping
