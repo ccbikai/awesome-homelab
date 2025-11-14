@@ -8,7 +8,7 @@
   url: 'https://github.com/Kozea/Radicale'
 
 - name: Firefox Sync Server
-  url: https://github.com/mozilla-services/syncserver
+  url: https://github.com/mozilla-services/syncstorage-rs
 
 - name: xBrowserSync
   url: https://github.com/xbrowsersync/app
